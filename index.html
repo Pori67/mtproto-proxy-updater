@@ -7,6 +7,11 @@
         table { border-collapse: collapse; width: 100%; }
         th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
         th { background-color: #f2f2f2; }
+        .copy-btn { cursor: pointer; color: blue; }
+        .copy-btn:hover { text-decoration: underline; }
+        .ping-btn { cursor: pointer; color: green; }
+        .ping-btn:hover { text-decoration: underline; }
+        .ping-result { font-weight: bold; }
     </style>
 </head>
 <body dir="rtl">
@@ -19,32 +24,82 @@
                 <th>Port</th>
                 <th>Secret</th>
                 <th>Country</th>
-                <th>Ping (ms)</th>
                 <th>Uptime (%)</th>
+                <th>پینگ (ms)</th>
+                <th>اقدامات</th>
             </tr>
         </thead>
         <tbody></tbody>
     </table>
 
     <script>
-        fetch('./mtproto.json')
-            .then(response => response.json())
-            .then(data => {
+        async function fetchAndDisplayProxies() {
+            try {
+                const response = await fetch('./mtproto.json');
+                const data = await response.json();
+
                 const tbody = document.querySelector('#proxyTable tbody');
-                data.forEach(proxy => {
+                tbody.innerHTML = ''; // پاک کردن جدول قبلی
+
+                for (const proxy of data) {
                     const row = document.createElement('tr');
+                    const pingResult = document.createElement('span');
+                    pingResult.className = 'ping-result';
+                    pingResult.textContent = 'N/A';
+
                     row.innerHTML = `
-                        <td>${proxy.host}</td>
-                        <td>${proxy.port}</td>
-                        <td>${proxy.secret.substring(0, 10)}...</td>  // مخفی بخشی برای امنیت
-                        <td>${proxy.country}</td>
-                        <td>${proxy.ping}</td>
-                        <td>${proxy.uptime}</td>
+                        <td>${proxy.host || '-'}</td>
+                        <td>${proxy.port || '-'}</td>
+                        <td>${proxy.secret.substring(0, 10)}...</td>
+                        <td>${proxy.country || '-'}</td>
+                        <td>${proxy.uptime || '-'}</td>
+                        <td>${pingResult.outerHTML}</td>
+                        <td>
+                            <span class="copy-btn" onclick="copyToClipboard('${proxy.host}:${proxy.port} ${proxy.secret}')">کپی</span> |
+                            <span class="ping-btn" onclick="testPing('${proxy.host}', ${proxy.port}, this)">تست پینگ</span>
+                        </td>
                     `;
                     tbody.appendChild(row);
-                });
-            })
-            .catch(error => console.error('Error loading proxies:', error));
+                }
+            } catch (error) {
+                console.error('Error loading proxies:', error);
+            }
+        }
+
+        // تابع کپی به کلیپ‌بورد
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text).then(() => {
+                alert('متن به کلیپ‌بورد کپی شد!');
+            }).catch(err => {
+                console.error('Failed to copy:', err);
+            });
+        }
+
+        // تابع تست پینگ (تخمین با درخواست HTTP)
+        async function testPing(host, port, buttonElement) {
+            const pingResultSpan = buttonElement.parentElement.parentElement.querySelector('.ping-result');
+            pingResultSpan.textContent = 'در حال تست...';
+            buttonElement.textContent = 'در حال تست...';
+
+            try {
+                const startTime = performance.now();
+                // درخواست HTTP ساده برای تخمین پینگ (نیاز به سرور باز دارد)
+                const url = `http://${host}:${port}`; // دقت: ممکن است مسدود شود، WebSocket بهتر است
+                const response = await fetch(url, { mode: 'no-cors', timeout: 5000 });
+                const endTime = performance.now();
+                const ping = Math.round(endTime - startTime);
+                pingResultSpan.textContent = `${ping} ms`;
+            } catch (error) {
+                pingResultSpan.textContent = 'خطا';
+                console.error('Ping test failed:', error);
+            } finally {
+                buttonElement.textContent = 'تست پینگ';
+            }
+        }
+
+        // لود اولیه و رفرش هر 5 دقیقه
+        fetchAndDisplayProxies();
+        setInterval(fetchAndDisplayProxies, 300000); // هر 5 دقیقه
     </script>
 </body>
 </html>
