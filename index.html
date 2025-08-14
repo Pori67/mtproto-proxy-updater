@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <title>MTProto Proxy Updater</title>
+    <style>
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+    </style>
+</head>
+<body dir="rtl">
+    <h1>لیست پروکسی‌های MTProto (آپدیت هر 5 دقیقه)</h1>
+    <p>آخرین آپدیت: August 14, 2025</p>
+    <table id="proxyTable">
+        <thead>
+            <tr>
+                <th>Host</th>
+                <th>Port</th>
+                <th>Secret</th>
+                <th>Country</th>
+                <th>Ping (ms)</th>
+                <th>Uptime (%)</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script>
+        fetch('./mtproto.json')
+            .then(response => response.json())
+            .then(data => {
+                const tbody = document.querySelector('#proxyTable tbody');
+                data.forEach(proxy => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${proxy.host}</td>
+                        <td>${proxy.port}</td>
+                        <td>${proxy.secret.substring(0, 10)}...</td>  // مخفی بخشی برای امنیت
+                        <td>${proxy.country}</td>
+                        <td>${proxy.ping}</td>
+                        <td>${proxy.uptime}</td>
+                    `;
+                    tbody.appendChild(row);
+                });
+            })
+            .catch(error => console.error('Error loading proxies:', error));
+    </script>
+</body>
+</html>
