@@ -1328,7 +1328,7 @@
     "uptime": 100,
     "addTime": 1751061803,
     "updateTime": 1755296929,
-    "ping": 66
+    "ping": 41
   },
   {
     "host": "shampo.cinere.info",
@@ -1339,7 +1339,7 @@
     "uptime": 100,
     "addTime": 1750197759,
     "updateTime": 1755037508,
-    "ping": 35
+    "ping": 68
   },
   {
     "host": "sood.hotelghooo.ir",
@@ -1350,7 +1350,7 @@
     "uptime": 100,
     "addTime": 1754680155,
     "updateTime": 1755284965,
-    "ping": 96
+    "ping": 182
   },
   {
     "host": "sorendive.aban-sanat.ir",
@@ -1361,7 +1361,7 @@
     "uptime": 100,
     "addTime": 1751061818,
     "updateTime": 1755296929,
-    "ping": 89
+    "ping": 94
   },
   {
     "host": "teh.hotelghooo.ir",
@@ -1372,7 +1372,7 @@
     "uptime": 100,
     "addTime": 1753146323,
     "updateTime": 1754961047,
-    "ping": 94
+    "ping": 180
   },
   {
     "host": "tiota.fanlpmw.info",
@@ -1383,7 +1383,7 @@
     "uptime": 100,
     "addTime": 1751061821,
     "updateTime": 1755296930,
-    "ping": 32
+    "ping": 33
   },
   {
     "host": "tools.mygrade.ir",
@@ -1394,7 +1394,7 @@
     "uptime": 100,
     "addTime": 1750197759,
     "updateTime": 1755037523,
-    "ping": 62
+    "ping": 69
   },
   {
     "host": "value.sheshko.info",
@@ -1405,7 +1405,18 @@
     "uptime": 100,
     "addTime": 1751061825,
     "updateTime": 1755296930,
-    "ping": 33
+    "ping": 35
+  },
+  {
+    "host": "xn--y8h.aftabneta4.ir",
+    "port": 443,
+    "secret": "eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D",
+    "country": "IR",
+    "provider": "PIO-Hosting GmbH",
+    "uptime": 100,
+    "addTime": 1753492067,
+    "updateTime": 1755307041,
+    "ping": 15062
   },
   {
     "host": "yop.hotelghooo.ir",
@@ -1416,7 +1427,7 @@
     "uptime": 100,
     "addTime": 1753751028,
     "updateTime": 1754960657,
-    "ping": 106
+    "ping": 94
   },
   {
     "host": "yozar.abarwitch.info",
@@ -1427,7 +1438,7 @@
     "uptime": 100,
     "addTime": 1751061802,
     "updateTime": 1755296931,
-    "ping": 44
+    "ping": 36
   },
   {
     "host": "zom.hotelghooo.ir",
@@ -1438,6 +1449,6 @@
     "uptime": 100,
     "addTime": 1752141943,
     "updateTime": 1755167045,
-    "ping": 203
+    "ping": 104
   }
 ]
