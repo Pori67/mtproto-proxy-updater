@@ -1064,7 +1064,7 @@
     "uptime": 100,
     "addTime": 1752141940,
     "updateTime": 1755771870,
-    "ping": 188
+    "ping": 94
   },
   {
     "host": "moz.hotelghooo.ir",
@@ -1075,7 +1075,7 @@
     "uptime": 100,
     "addTime": 1752141943,
     "updateTime": 1755771871,
-    "ping": 100
+    "ping": 179
   },
   {
     "host": "mtproto.telewebion.com",
@@ -1086,7 +1086,7 @@
     "uptime": 100,
     "addTime": 1753254458,
     "updateTime": 1755674591,
-    "ping": 139
+    "ping": 140
   },
   {
     "host": "op.hotelghooo.ir",
@@ -1097,7 +1097,18 @@
     "uptime": 100,
     "addTime": 1751342821,
     "updateTime": 1755577674,
-    "ping": 97
+    "ping": 104
+  },
+  {
+    "host": "package.cbloudcdn.com",
+    "port": 1000,
+    "secret": "7qi6jdKKygIxFalhsTItDWZ3d3cuY2Jsb3VkY2RuLmNvbQ",
+    "country": "IR",
+    "provider": "FanAvaran Mihan Mizban PJSC",
+    "uptime": 100,
+    "addTime": 1750694586,
+    "updateTime": 1755534176,
+    "ping": 129
   },
   {
     "host": "poy.hotelghooo.ir",
@@ -1108,7 +1119,7 @@
     "uptime": 100,
     "addTime": 1753751028,
     "updateTime": 1755565757,
-    "ping": 121
+    "ping": 98
   },
   {
     "host": "rak.hotelghooo.ir",
@@ -1119,7 +1130,7 @@
     "uptime": 100,
     "addTime": 1752141940,
     "updateTime": 1755771873,
-    "ping": 101
+    "ping": 174
   },
   {
     "host": "s23.nestweb01.ir",
@@ -1130,7 +1141,7 @@
     "uptime": 100,
     "addTime": 1754647551,
     "updateTime": 1755857519,
-    "ping": 153
+    "ping": 167
   },
   {
     "host": "sood.hotelghooo.ir",
@@ -1141,7 +1152,7 @@
     "uptime": 100,
     "addTime": 1754680155,
     "updateTime": 1755889994,
-    "ping": 174
+    "ping": 97
   },
   {
     "host": "teh.hotelghooo.ir",
@@ -1152,7 +1163,7 @@
     "uptime": 100,
     "addTime": 1753146323,
     "updateTime": 1755566145,
-    "ping": 99
+    "ping": 179
   },
   {
     "host": "varzesh3.com_linkirani.ir_myket.ir_telewebion.com_zula.ir_mihandownload.ir_yasdl.ir_soft98.ir.iceburger.ir",
@@ -1163,7 +1174,7 @@
     "uptime": 100,
     "addTime": 1755943534,
     "updateTime": 1755943534,
-    "ping": 194
+    "ping": 102
   },
   {
     "host": "yop.hotelghooo.ir",
@@ -1174,7 +1185,7 @@
     "uptime": 100,
     "addTime": 1753751028,
     "updateTime": 1755565761,
-    "ping": 202
+    "ping": 252
   },
   {
     "host": "zom.hotelghooo.ir",
@@ -1185,6 +1196,6 @@
     "uptime": 100,
     "addTime": 1752141943,
     "updateTime": 1755771876,
-    "ping": 174
+    "ping": 117
   }
 ]
