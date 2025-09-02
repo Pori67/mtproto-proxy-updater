@@ -715,17 +715,6 @@
     "ping": 176
   },
   {
-    "host": "app.aftabneta2.ir",
-    "port": 85,
-    "secret": "7gAA8A8Pd1VV____9QBuLmlhZnRhYm5ldGEyLmly",
-    "country": "IR",
-    "provider": "PIO-Hosting GmbH",
-    "uptime": 100,
-    "addTime": 1752692597,
-    "updateTime": 1756322558,
-    "ping": 1096
-  },
-  {
     "host": "bob.hotelghooo.ir",
     "port": 443,
     "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
@@ -767,7 +756,7 @@
     "uptime": 100,
     "addTime": 1754841928,
     "updateTime": 1756656781,
-    "ping": 15034
+    "ping": 15031
   },
   {
     "host": "en.hotelghooo.ir",
@@ -932,7 +921,7 @@
     "uptime": 100,
     "addTime": 1756710299,
     "updateTime": 1756710299,
-    "ping": 29
+    "ping": 64
   },
   {
     "host": "sood.hotelghooo.ir",
@@ -943,7 +932,7 @@
     "uptime": 100,
     "addTime": 1754680155,
     "updateTime": 1756495076,
-    "ping": 156
+    "ping": 99
   },
   {
     "host": "teh.hotelghooo.ir",
@@ -954,7 +943,7 @@
     "uptime": 100,
     "addTime": 1753146323,
     "updateTime": 1756776151,
-    "ping": 99
+    "ping": 131
   },
   {
     "host": "yop.hotelghooo.ir",
@@ -965,7 +954,7 @@
     "uptime": 100,
     "addTime": 1753751028,
     "updateTime": 1756775773,
-    "ping": 106
+    "ping": 157
   },
   {
     "host": "zom.hotelghooo.ir",
@@ -976,6 +965,6 @@
     "uptime": 100,
     "addTime": 1752141943,
     "updateTime": 1756376888,
-    "ping": 133
+    "ping": 95
   }
 ]
