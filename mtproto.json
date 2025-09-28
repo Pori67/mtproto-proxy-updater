@@ -825,6 +825,17 @@
     "ping": 97
   },
   {
+    "host": "package.cbloudcdn.com",
+    "port": 1000,
+    "secret": "7qi6jdKKygIxFalhsTItDWZ3d3cuY2Jsb3VkY2RuLmNvbQ",
+    "country": "IR",
+    "provider": "FanAvaran Mihan Mizban PJSC",
+    "uptime": 100,
+    "addTime": 1750694586,
+    "updateTime": 1758559197,
+    "ping": 10191
+  },
+  {
     "host": "poy.hotelghooo.ir",
     "port": 443,
     "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
@@ -976,6 +987,6 @@
     "uptime": 100,
     "addTime": 1752141943,
     "updateTime": 1758797370,
-    "ping": 92
+    "ping": 129
   }
 ]
