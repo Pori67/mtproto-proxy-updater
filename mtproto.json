@@ -88,28 +88,6 @@
     "ping": 196
   },
   {
-    "host": "87.248.132.24",
-    "port": 200,
-    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "IR",
-    "provider": "PIO-Hosting GmbH",
-    "uptime": 100,
-    "addTime": 1754226181,
-    "updateTime": 1761486209,
-    "ping": 33
-  },
-  {
-    "host": "87.248.132.30",
-    "port": 200,
-    "secret": "eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D",
-    "country": "IR",
-    "provider": "PIO-Hosting GmbH",
-    "uptime": 100,
-    "addTime": 1753805005,
-    "updateTime": 1761669305,
-    "ping": 30
-  },
-  {
     "host": "87.248.132.32",
     "port": 155,
     "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
@@ -231,17 +209,6 @@
     "ping": 33
   },
   {
-    "host": "87.248.132.68",
-    "port": 155,
-    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "IR",
-    "provider": "PIO-Hosting GmbH",
-    "uptime": 100,
-    "addTime": 1754226180,
-    "updateTime": 1761486210,
-    "ping": 33
-  },
-  {
     "host": "87.248.132.70",
     "port": 155,
     "secret": "ee0000f00f0f775555fffffff5006e2e69646f776e6c6f61642e77696e646f77737570646174652e636f6d",
@@ -262,28 +229,6 @@
     "addTime": 1754226180,
     "updateTime": 1761486210,
     "ping": 30
-  },
-  {
-    "host": "87.248.132.94",
-    "port": 200,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "IR",
-    "provider": "PIO-Hosting GmbH",
-    "uptime": 100,
-    "addTime": 1751796181,
-    "updateTime": 1761476072,
-    "ping": 30
-  },
-  {
-    "host": "87.248.132.96",
-    "port": 200,
-    "secret": "eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D",
-    "country": "IR",
-    "provider": "PIO-Hosting GmbH",
-    "uptime": 100,
-    "addTime": 1753740195,
-    "updateTime": 1761604702,
-    "ping": 33
   },
   {
     "host": "87.248.132.99",
@@ -866,6 +811,6 @@
     "uptime": 100,
     "addTime": 1752141943,
     "updateTime": 1761822323,
-    "ping": 92
+    "ping": 147
   }
 ]
