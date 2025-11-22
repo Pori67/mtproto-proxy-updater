@@ -1,5 +1,16 @@
 [
   {
+    "host": "11-22-8.edshop.ir",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "country": "IR",
+    "provider": "Unknown",
+    "uptime": 100,
+    "addTime": 1753275959,
+    "updateTime": 1763561215,
+    "ping": 70
+  },
+  {
     "host": "185.10.72.52",
     "port": 443,
     "secret": "ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564",
@@ -8,7 +19,7 @@
     "uptime": 100,
     "addTime": 1754841929,
     "updateTime": 1763311857,
-    "ping": 86
+    "ping": 85
   },
   {
     "host": "185.201.49.82",
@@ -19,7 +30,7 @@
     "uptime": 100,
     "addTime": 1750867412,
     "updateTime": 1763572891,
-    "ping": 173
+    "ping": 174
   },
   {
     "host": "185.222.163.6",
@@ -30,7 +41,7 @@
     "uptime": 100,
     "addTime": 1757293521,
     "updateTime": 1763343742,
-    "ping": 98
+    "ping": 99
   },
   {
     "host": "212.33.198.29",
@@ -41,7 +52,7 @@
     "uptime": 100,
     "addTime": 1750856602,
     "updateTime": 1763561643,
-    "ping": 99
+    "ping": 98
   },
   {
     "host": "45.94.214.208",
@@ -52,18 +63,18 @@
     "uptime": 100,
     "addTime": 1758276308,
     "updateTime": 1763721416,
-    "ping": 95
+    "ping": 93
   },
   {
-    "host": "62.60.233.231.maksport.ir",
+    "host": "62.60.233.107.edshop.ir",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "country": "IR",
     "provider": "Unknown",
     "uptime": 100,
-    "addTime": 1753373158,
-    "updateTime": 1763657711,
-    "ping": 128
+    "addTime": 1753383944,
+    "updateTime": 1763669092,
+    "ping": 70
   },
   {
     "host": "79.175.157.254",
