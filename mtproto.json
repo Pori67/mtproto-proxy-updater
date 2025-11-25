@@ -8,7 +8,7 @@
     "uptime": 100,
     "addTime": 1754841929,
     "updateTime": 1763916851,
-    "ping": 87
+    "ping": 88
   },
   {
     "host": "185.201.49.82",
@@ -19,7 +19,7 @@
     "uptime": 100,
     "addTime": 1750867412,
     "updateTime": 1763572891,
-    "ping": 178
+    "ping": 183
   },
   {
     "host": "185.222.163.6",
@@ -30,7 +30,7 @@
     "uptime": 100,
     "addTime": 1757293521,
     "updateTime": 1763948592,
-    "ping": 96
+    "ping": 104
   },
   {
     "host": "194.117.64.161",
@@ -41,7 +41,7 @@
     "uptime": 100,
     "addTime": 1763809455,
     "updateTime": 1763809455,
-    "ping": 30
+    "ping": 35
   },
   {
     "host": "194.117.64.162",
@@ -63,6 +63,39 @@
     "uptime": 100,
     "addTime": 1764101057,
     "updateTime": 1764101057,
+    "ping": 34
+  },
+  {
+    "host": "195.18.10.250",
+    "port": 8770,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "IR",
+    "provider": "Unknown",
+    "uptime": 100,
+    "addTime": 1764101057,
+    "updateTime": 1764101057,
+    "ping": 30
+  },
+  {
+    "host": "195.18.10.251",
+    "port": 2500,
+    "secret": "eecBAgAeeAfwEEOGEkwEeQAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "IR",
+    "provider": "Unknown",
+    "uptime": 100,
+    "addTime": 1764101057,
+    "updateTime": 1764101057,
+    "ping": 30
+  },
+  {
+    "host": "195.18.10.252",
+    "port": 8770,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQeecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "IR",
+    "provider": "Unknown",
+    "uptime": 100,
+    "addTime": 1764079449,
+    "updateTime": 1764079449,
     "ping": 30
   },
   {
@@ -85,7 +118,7 @@
     "uptime": 100,
     "addTime": 1750856602,
     "updateTime": 1763561643,
-    "ping": 99
+    "ping": 90
   },
   {
     "host": "212.33.205.58",
@@ -96,7 +129,7 @@
     "uptime": 100,
     "addTime": 1763831128,
     "updateTime": 1763831128,
-    "ping": 99
+    "ping": 92
   },
   {
     "host": "45.94.214.208",
@@ -107,7 +140,18 @@
     "uptime": 100,
     "addTime": 1758276308,
     "updateTime": 1763721416,
-    "ping": 89
+    "ping": 94
+  },
+  {
+    "host": "62.60.233.107.edshop.ir",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "country": "IR",
+    "provider": "Unknown",
+    "uptime": 100,
+    "addTime": 1753383944,
+    "updateTime": 1763669092,
+    "ping": 132
   },
   {
     "host": "79.175.157.254",
@@ -129,7 +173,7 @@
     "uptime": 100,
     "addTime": 1753362352,
     "updateTime": 1763646760,
-    "ping": 65
+    "ping": 45
   },
   {
     "host": "85.133.214.250",
@@ -140,7 +184,7 @@
     "uptime": 100,
     "addTime": 1750867381,
     "updateTime": 1763572908,
-    "ping": 182
+    "ping": 176
   },
   {
     "host": "85.133.214.37",
@@ -151,7 +195,7 @@
     "uptime": 100,
     "addTime": 1750888972,
     "updateTime": 1763593686,
-    "ping": 174
+    "ping": 175
   },
   {
     "host": "87.248.134.10",
@@ -184,7 +228,7 @@
     "uptime": 100,
     "addTime": 1763312685,
     "updateTime": 1763917662,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "87.248.134.145",
@@ -206,7 +250,7 @@
     "uptime": 100,
     "addTime": 1763334707,
     "updateTime": 1763939863,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "87.248.134.2",
@@ -217,7 +261,7 @@
     "uptime": 100,
     "addTime": 1763226255,
     "updateTime": 1763831374,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "87.248.134.206",
@@ -242,6 +286,17 @@
     "ping": 30
   },
   {
+    "host": "87.248.134.209",
+    "port": 2500,
+    "secret": "eecBAgAeeAfwEEOGEkwEeQAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "IR",
+    "provider": "Seed Technologies LTD.",
+    "uptime": 100,
+    "addTime": 1763842291,
+    "updateTime": 1763842291,
+    "ping": 30
+  },
+  {
     "host": "87.248.134.210",
     "port": 2500,
     "secret": "eecBAgAeeAfwEEOGEkwEeQAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
@@ -250,7 +305,7 @@
     "uptime": 100,
     "addTime": 1763842291,
     "updateTime": 1763842291,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "87.248.134.211",
@@ -264,6 +319,28 @@
     "ping": 30
   },
   {
+    "host": "87.248.134.216",
+    "port": 9999,
+    "secret": "ddaf91db15ad414ccc37255b13b558134a",
+    "country": "IR",
+    "provider": "Seed Technologies LTD.",
+    "uptime": 100,
+    "addTime": 1763723060,
+    "updateTime": 1763723060,
+    "ping": 30
+  },
+  {
+    "host": "87.248.134.219",
+    "port": 9999,
+    "secret": "eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "IR",
+    "provider": "Seed Technologies LTD.",
+    "uptime": 100,
+    "addTime": 1763647457,
+    "updateTime": 1763647457,
+    "ping": 30
+  },
+  {
     "host": "87.248.134.223",
     "port": 9999,
     "secret": "eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
@@ -272,7 +349,7 @@
     "uptime": 100,
     "addTime": 1763517854,
     "updateTime": 1763517854,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "87.248.134.225",
@@ -294,7 +371,7 @@
     "uptime": 100,
     "addTime": 1763463884,
     "updateTime": 1764068985,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "87.248.134.228",
@@ -311,6 +388,17 @@
     "host": "87.248.134.229",
     "port": 9999,
     "secret": "7HQighJPBNMYVRNB6tdkVwDAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "IR",
+    "provider": "Seed Technologies LTD.",
+    "uptime": 100,
+    "addTime": 1763399058,
+    "updateTime": 1764003913,
+    "ping": 30
+  },
+  {
+    "host": "87.248.134.230",
+    "port": 9999,
+    "secret": "eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "country": "IR",
     "provider": "Seed Technologies LTD.",
     "uptime": 100,
@@ -341,6 +429,17 @@
     "ping": 30
   },
   {
+    "host": "87.248.134.240",
+    "port": 8770,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "IR",
+    "provider": "Seed Technologies LTD.",
+    "uptime": 100,
+    "addTime": 1763323460,
+    "updateTime": 1763928317,
+    "ping": 30
+  },
+  {
     "host": "87.248.134.241",
     "port": 8770,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
@@ -360,12 +459,45 @@
     "uptime": 100,
     "addTime": 1763842397,
     "updateTime": 1763842397,
+    "ping": 31
+  },
+  {
+    "host": "87.248.134.244",
+    "port": 8770,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "IR",
+    "provider": "Seed Technologies LTD.",
+    "uptime": 100,
+    "addTime": 1763291065,
+    "updateTime": 1763896172,
+    "ping": 30
+  },
+  {
+    "host": "87.248.134.245",
+    "port": 8770,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "IR",
+    "provider": "Seed Technologies LTD.",
+    "uptime": 100,
+    "addTime": 1763291065,
+    "updateTime": 1763896172,
     "ping": 30
   },
   {
     "host": "87.248.134.246",
     "port": 8770,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "country": "IR",
+    "provider": "Seed Technologies LTD.",
+    "uptime": 100,
+    "addTime": 1763291065,
+    "updateTime": 1763896172,
+    "ping": 30
+  },
+  {
+    "host": "87.248.134.247",
+    "port": 155,
+    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "country": "IR",
     "provider": "Seed Technologies LTD.",
     "uptime": 100,
@@ -415,7 +547,7 @@
     "uptime": 100,
     "addTime": 1763356003,
     "updateTime": 1763961053,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "87.248.134.7",
@@ -459,7 +591,7 @@
     "uptime": 100,
     "addTime": 1751061803,
     "updateTime": 1763766411,
-    "ping": 74
+    "ping": 39
   },
   {
     "host": "abrig.abarwitch.info",
@@ -470,18 +602,7 @@
     "uptime": 100,
     "addTime": 1751061800,
     "updateTime": 1763766411,
-    "ping": 43
-  },
-  {
-    "host": "ali-bayat.dezmart.ir",
-    "port": 443,
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
-    "country": "IR",
-    "provider": "Unknown",
-    "uptime": 100,
-    "addTime": 1753373155,
-    "updateTime": 1763657723,
-    "ping": 63
+    "ping": 36
   },
   {
     "host": "ali.hotelghooo.ir",
@@ -492,7 +613,7 @@
     "uptime": 100,
     "addTime": 1755468364,
     "updateTime": 1763937860,
-    "ping": 147
+    "ping": 95
   },
   {
     "host": "all.net.irancell.mci.luna-marzban.ir",
@@ -503,7 +624,29 @@
     "uptime": 100,
     "addTime": 1763658259,
     "updateTime": 1763658259,
-    "ping": 218
+    "ping": 274
+  },
+  {
+    "host": "amd-epic.sheshko.info",
+    "port": 443,
+    "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+    "country": "IR",
+    "provider": "Unknown",
+    "uptime": 100,
+    "addTime": 1755770662,
+    "updateTime": 1763636199,
+    "ping": 86
+  },
+  {
+    "host": "aval.fsaremi.info",
+    "port": 443,
+    "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+    "country": "IR",
+    "provider": "Unknown",
+    "uptime": 100,
+    "addTime": 1750230175,
+    "updateTime": 1763540452,
+    "ping": 73
   },
   {
     "host": "barname-darsi.aivalai.info",
@@ -514,7 +657,7 @@
     "uptime": 100,
     "addTime": 1751061803,
     "updateTime": 1763766412,
-    "ping": 95
+    "ping": 102
   },
   {
     "host": "biskotard.sheshko.info",
@@ -525,7 +668,7 @@
     "uptime": 100,
     "addTime": 1751061802,
     "updateTime": 1763766010,
-    "ping": 74
+    "ping": 36
   },
   {
     "host": "bob.hotelghooo.ir",
@@ -536,7 +679,7 @@
     "uptime": 100,
     "addTime": 1753146322,
     "updateTime": 1764036847,
-    "ping": 103
+    "ping": 155
   },
   {
     "host": "boikai.aivalai.info",
@@ -547,7 +690,7 @@
     "uptime": 100,
     "addTime": 1751061803,
     "updateTime": 1763766011,
-    "ping": 43
+    "ping": 36
   },
   {
     "host": "bor.hotelghooo.ir",
@@ -558,7 +701,7 @@
     "uptime": 100,
     "addTime": 1754690767,
     "updateTime": 1763765223,
-    "ping": 102
+    "ping": 95
   },
   {
     "host": "canisall.bmcdr.info",
@@ -568,8 +711,8 @@
     "provider": "Unknown",
     "uptime": 100,
     "addTime": 1750197759,
-    "updateTime": 1763507849,
-    "ping": 36
+    "updateTime": 1764112847,
+    "ping": 98
   },
   {
     "host": "castle.ultrasam.info",
@@ -580,7 +723,18 @@
     "uptime": 100,
     "addTime": 1751061802,
     "updateTime": 1763766413,
-    "ping": 36
+    "ping": 37
+  },
+  {
+    "host": "chernobill.technote.ir",
+    "port": 443,
+    "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+    "country": "IR",
+    "provider": "Unknown",
+    "uptime": 100,
+    "addTime": 1751731414,
+    "updateTime": 1763831387,
+    "ping": 123
   },
   {
     "host": "cok.hotelghooo.ir",
@@ -591,7 +745,7 @@
     "uptime": 100,
     "addTime": 1757855216,
     "updateTime": 1763904743,
-    "ping": 98
+    "ping": 96
   },
   {
     "host": "cumprx.refprog.org",
@@ -602,18 +756,7 @@
     "uptime": 100,
     "addTime": 1763345243,
     "updateTime": 1763950214,
-    "ping": 94
-  },
-  {
-    "host": "daemi-pr.shesh-station.ir",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "country": "IR",
-    "provider": "Unknown",
-    "uptime": 100,
-    "addTime": 1751774602,
-    "updateTime": 1763874522,
-    "ping": 64
+    "ping": 134
   },
   {
     "host": "daemi1.fanar.info",
@@ -635,7 +778,7 @@
     "uptime": 100,
     "addTime": 1758611162,
     "updateTime": 1764056170,
-    "ping": 97
+    "ping": 209
   },
   {
     "host": "dop.hotelghooo.ir",
@@ -646,7 +789,7 @@
     "uptime": 100,
     "addTime": 1758578693,
     "updateTime": 1764023754,
-    "ping": 94
+    "ping": 93
   },
   {
     "host": "egabit.itemag.ir",
@@ -657,7 +800,7 @@
     "uptime": 100,
     "addTime": 1761552308,
     "updateTime": 1763972773,
-    "ping": 136
+    "ping": 123
   },
   {
     "host": "en.hotelghooo.ir",
@@ -668,7 +811,7 @@
     "uptime": 100,
     "addTime": 1751342821,
     "updateTime": 1764046896,
-    "ping": 90
+    "ping": 125
   },
   {
     "host": "fitidream.fiziotr.info",
@@ -690,7 +833,18 @@
     "uptime": 100,
     "addTime": 1755803114,
     "updateTime": 1763668330,
-    "ping": 91
+    "ping": 31
+  },
+  {
+    "host": "giahi-vegeterian.khunebagh.ir",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "country": "IR",
+    "provider": "Unknown",
+    "uptime": 100,
+    "addTime": 1753275959,
+    "updateTime": 1763561276,
+    "ping": 120
   },
   {
     "host": "halftime.parsintalk.ir",
@@ -701,7 +855,7 @@
     "uptime": 100,
     "addTime": 1750241084,
     "updateTime": 1763551242,
-    "ping": 100
+    "ping": 78
   },
   {
     "host": "heavisuy.sheshko.info",
@@ -712,7 +866,7 @@
     "uptime": 100,
     "addTime": 1751061802,
     "updateTime": 1763766015,
-    "ping": 47
+    "ping": 43
   },
   {
     "host": "here.aivalai.info",
@@ -723,7 +877,7 @@
     "uptime": 100,
     "addTime": 1751061803,
     "updateTime": 1763766015,
-    "ping": 35
+    "ping": 40
   },
   {
     "host": "het.hotelghooo.ir",
@@ -734,7 +888,7 @@
     "uptime": 100,
     "addTime": 1753146323,
     "updateTime": 1764036853,
-    "ping": 101
+    "ping": 95
   },
   {
     "host": "hisenselg.cinere.info",
@@ -745,7 +899,7 @@
     "uptime": 100,
     "addTime": 1751061818,
     "updateTime": 1763766015,
-    "ping": 63
+    "ping": 65
   },
   {
     "host": "hooo.hotelghooo.ir",
@@ -756,7 +910,7 @@
     "uptime": 100,
     "addTime": 1758503111,
     "updateTime": 1763948228,
-    "ping": 184
+    "ping": 99
   },
   {
     "host": "icon.tomnail.info",
@@ -767,7 +921,7 @@
     "uptime": 100,
     "addTime": 1751061825,
     "updateTime": 1763766016,
-    "ping": 46
+    "ping": 66
   },
   {
     "host": "ila.hotelghooo.ir",
@@ -778,7 +932,7 @@
     "uptime": 100,
     "addTime": 1755457561,
     "updateTime": 1763927933,
-    "ping": 148
+    "ping": 129
   },
   {
     "host": "institute.sateh.info",
@@ -789,18 +943,7 @@
     "uptime": 100,
     "addTime": 1751061818,
     "updateTime": 1763766419,
-    "ping": 61
-  },
-  {
-    "host": "iran-vatan.magalaiash.info",
-    "port": 443,
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
-    "country": "IR",
-    "provider": "Unknown",
-    "uptime": 100,
-    "addTime": 1751580196,
-    "updateTime": 1763679380,
-    "ping": 93
+    "ping": 65
   },
   {
     "host": "kar.hotelghooo.ir",
@@ -822,7 +965,7 @@
     "uptime": 100,
     "addTime": 1755522401,
     "updateTime": 1763991821,
-    "ping": 91
+    "ping": 92
   },
   {
     "host": "koc.hotelghooo.ir",
@@ -833,7 +976,18 @@
     "uptime": 100,
     "addTime": 1757855217,
     "updateTime": 1763904749,
-    "ping": 128
+    "ping": 123
+  },
+  {
+    "host": "leveldaemi.fiziotr.info",
+    "port": 443,
+    "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+    "country": "IR",
+    "provider": "Unknown",
+    "uptime": 100,
+    "addTime": 1752066169,
+    "updateTime": 1763561279,
+    "ping": 63
   },
   {
     "host": "lipzinc.ultrasam.info",
@@ -844,7 +998,7 @@
     "uptime": 100,
     "addTime": 1751061818,
     "updateTime": 1763766017,
-    "ping": 41
+    "ping": 33
   },
   {
     "host": "lol.hotelghooo.ir",
@@ -855,7 +1009,7 @@
     "uptime": 100,
     "addTime": 1757930799,
     "updateTime": 1763981305,
-    "ping": 100
+    "ping": 146
   },
   {
     "host": "mino.hotelghooo.ir",
@@ -866,7 +1020,7 @@
     "uptime": 100,
     "addTime": 1758567983,
     "updateTime": 1764012749,
-    "ping": 92
+    "ping": 100
   },
   {
     "host": "mon.hotelghooo.ir",
@@ -877,7 +1031,7 @@
     "uptime": 100,
     "addTime": 1758525187,
     "updateTime": 1763970418,
-    "ping": 185
+    "ping": 144
   },
   {
     "host": "moz.hotelghooo.ir",
@@ -888,7 +1042,7 @@
     "uptime": 100,
     "addTime": 1752141943,
     "updateTime": 1763637419,
-    "ping": 95
+    "ping": 96
   },
   {
     "host": "mt.vip-server.ir",
@@ -899,7 +1053,7 @@
     "uptime": 100,
     "addTime": 1762049105,
     "updateTime": 1763864113,
-    "ping": 149
+    "ping": 152
   },
   {
     "host": "mtproto.telewebion.com",
@@ -910,7 +1064,7 @@
     "uptime": 100,
     "addTime": 1753254458,
     "updateTime": 1763538889,
-    "ping": 152
+    "ping": 154
   },
   {
     "host": "nom.hotelghooo.ir",
@@ -921,7 +1075,7 @@
     "uptime": 100,
     "addTime": 1758525186,
     "updateTime": 1763970419,
-    "ping": 101
+    "ping": 123
   },
   {
     "host": "oo.hotelghooo.ir",
@@ -932,7 +1086,7 @@
     "uptime": 100,
     "addTime": 1757887595,
     "updateTime": 1763937478,
-    "ping": 173
+    "ping": 92
   },
   {
     "host": "op.hotelghooo.ir",
@@ -943,7 +1097,7 @@
     "uptime": 100,
     "addTime": 1751342821,
     "updateTime": 1764046903,
-    "ping": 99
+    "ping": 96
   },
   {
     "host": "or.hotelghooo.ir",
@@ -954,7 +1108,7 @@
     "uptime": 100,
     "addTime": 1756839996,
     "updateTime": 1764099349,
-    "ping": 103
+    "ping": 96
   },
   {
     "host": "pes2021-update2025.magalaiash.info",
@@ -965,7 +1119,18 @@
     "uptime": 100,
     "addTime": 1752919412,
     "updateTime": 1763809919,
-    "ping": 38
+    "ping": 100
+  },
+  {
+    "host": "phyzyk.nokande.info",
+    "port": 443,
+    "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+    "country": "IR",
+    "provider": "Unknown",
+    "uptime": 100,
+    "addTime": 1751580196,
+    "updateTime": 1763679383,
+    "ping": 47
   },
   {
     "host": "poria-vali.birjikala.ir",
@@ -976,7 +1141,7 @@
     "uptime": 100,
     "addTime": 1753373155,
     "updateTime": 1763657734,
-    "ping": 61
+    "ping": 100
   },
   {
     "host": "poy.hotelghooo.ir",
@@ -987,7 +1152,7 @@
     "uptime": 100,
     "addTime": 1753751028,
     "updateTime": 1764036441,
-    "ping": 219
+    "ping": 95
   },
   {
     "host": "qebrit.parsintalk.ir",
@@ -998,7 +1163,7 @@
     "uptime": 100,
     "addTime": 1751061802,
     "updateTime": 1763766021,
-    "ping": 93
+    "ping": 89
   },
   {
     "host": "rak.hotelghooo.ir",
@@ -1009,6 +1174,17 @@
     "uptime": 100,
     "addTime": 1752141940,
     "updateTime": 1763637422,
+    "ping": 97
+  },
+  {
+    "host": "response.cinere.info",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "country": "IR",
+    "provider": "Unknown",
+    "uptime": 100,
+    "addTime": 1750241083,
+    "updateTime": 1763551249,
     "ping": 92
   },
   {
@@ -1020,7 +1196,7 @@
     "uptime": 100,
     "addTime": 1758546486,
     "updateTime": 1763991438,
-    "ping": 103
+    "ping": 105
   },
   {
     "host": "rioo.hotelghooo.ir",
@@ -1031,7 +1207,7 @@
     "uptime": 100,
     "addTime": 1758546486,
     "updateTime": 1763991438,
-    "ping": 100
+    "ping": 91
   },
   {
     "host": "ro.hotelghooo.ir",
@@ -1042,18 +1218,7 @@
     "uptime": 100,
     "addTime": 1756839996,
     "updateTime": 1764099351,
-    "ping": 93
-  },
-  {
-    "host": "ryzen-gold.shesh-station.ir",
-    "port": 443,
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
-    "country": "IR",
-    "provider": "Unknown",
-    "uptime": 100,
-    "addTime": 1751731414,
-    "updateTime": 1763831399,
-    "ping": 76
+    "ping": 186
   },
   {
     "host": "sadra.mygrade.ir",
@@ -1064,7 +1229,7 @@
     "uptime": 100,
     "addTime": 1750241084,
     "updateTime": 1763551250,
-    "ping": 70
+    "ping": 89
   },
   {
     "host": "sayonara.aban-sanat.ir",
@@ -1075,7 +1240,7 @@
     "uptime": 100,
     "addTime": 1751061803,
     "updateTime": 1763766425,
-    "ping": 64
+    "ping": 90
   },
   {
     "host": "scofield.yahia.info",
@@ -1086,7 +1251,7 @@
     "uptime": 100,
     "addTime": 1751061821,
     "updateTime": 1763766425,
-    "ping": 63
+    "ping": 66
   },
   {
     "host": "sebro.sheshko.info",
@@ -1097,7 +1262,7 @@
     "uptime": 100,
     "addTime": 1750241084,
     "updateTime": 1763551250,
-    "ping": 86
+    "ping": 87
   },
   {
     "host": "sepas.bmcdr.info",
@@ -1108,7 +1273,7 @@
     "uptime": 100,
     "addTime": 1751061802,
     "updateTime": 1763766425,
-    "ping": 33
+    "ping": 41
   },
   {
     "host": "sevento.ultrasam.info",
@@ -1119,7 +1284,7 @@
     "uptime": 100,
     "addTime": 1751061803,
     "updateTime": 1763766425,
-    "ping": 36
+    "ping": 70
   },
   {
     "host": "shah3.hotelghooo.ir",
@@ -1130,7 +1295,7 @@
     "uptime": 100,
     "addTime": 1757455650,
     "updateTime": 1764110443,
-    "ping": 176
+    "ping": 100
   },
   {
     "host": "shampo.cinere.info",
@@ -1140,8 +1305,8 @@
     "provider": "Unknown",
     "uptime": 100,
     "addTime": 1750197759,
-    "updateTime": 1763507450,
-    "ping": 42
+    "updateTime": 1764112448,
+    "ping": 65
   },
   {
     "host": "sibilkoloft.technote.ir",
@@ -1152,18 +1317,7 @@
     "uptime": 100,
     "addTime": 1751774602,
     "updateTime": 1763874938,
-    "ping": 64
-  },
-  {
-    "host": "silvermantain.cinere.info",
-    "port": 443,
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
-    "country": "IR",
-    "provider": "Unknown",
-    "uptime": 100,
-    "addTime": 1752066169,
-    "updateTime": 1763561285,
-    "ping": 48
+    "ping": 94
   },
   {
     "host": "sood.hotelghooo.ir",
@@ -1174,7 +1328,7 @@
     "uptime": 100,
     "addTime": 1754680155,
     "updateTime": 1763754952,
-    "ping": 147
+    "ping": 92
   },
   {
     "host": "sorendive.aban-sanat.ir",
@@ -1185,7 +1339,7 @@
     "uptime": 100,
     "addTime": 1751061818,
     "updateTime": 1763766022,
-    "ping": 129
+    "ping": 64
   },
   {
     "host": "sothingp.birjikala.ir",
@@ -1196,29 +1350,18 @@
     "uptime": 100,
     "addTime": 1753016623,
     "updateTime": 1763906314,
-    "ping": 77
+    "ping": 135
   },
   {
-    "host": "syczleck.itemag.ir",
+    "host": "sun.bahazu.info",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
     "country": "IR",
     "provider": "Unknown",
     "uptime": 100,
-    "addTime": 1750241083,
-    "updateTime": 1763551251,
-    "ping": 119
-  },
-  {
-    "host": "systemfull.gjesus.info",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "country": "IR",
-    "provider": "Unknown",
-    "uptime": 100,
-    "addTime": 1751645015,
-    "updateTime": 1763745060,
-    "ping": 44
+    "addTime": 1757099285,
+    "updateTime": 1763753772,
+    "ping": 103
   },
   {
     "host": "tarqibrr.pw-sasani1.ir",
@@ -1229,7 +1372,7 @@
     "uptime": 100,
     "addTime": 1755414363,
     "updateTime": 1763884931,
-    "ping": 90
+    "ping": 91
   },
   {
     "host": "teh.hotelghooo.ir",
@@ -1240,18 +1383,7 @@
     "uptime": 100,
     "addTime": 1753146323,
     "updateTime": 1764036862,
-    "ping": 159
-  },
-  {
-    "host": "terminal.khalije-fars.org",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "country": "IR",
-    "provider": "Unknown",
-    "uptime": 100,
-    "addTime": 1759701961,
-    "updateTime": 1763937089,
-    "ping": 76
+    "ping": 103
   },
   {
     "host": "tino.hotelghooo.ir",
@@ -1262,7 +1394,7 @@
     "uptime": 100,
     "addTime": 1758567983,
     "updateTime": 1764012754,
-    "ping": 100
+    "ping": 103
   },
   {
     "host": "tiota.fanlpmw.info",
@@ -1283,8 +1415,8 @@
     "provider": "Unknown",
     "uptime": 100,
     "addTime": 1750197759,
-    "updateTime": 1763507863,
-    "ping": 62
+    "updateTime": 1764112862,
+    "ping": 91
   },
   {
     "host": "value.sheshko.info",
@@ -1295,7 +1427,7 @@
     "uptime": 100,
     "addTime": 1751061825,
     "updateTime": 1763766024,
-    "ping": 35
+    "ping": 33
   },
   {
     "host": "www.hostingbartarpq.ir",
@@ -1306,7 +1438,7 @@
     "uptime": 100,
     "addTime": 1761725218,
     "updateTime": 1763540078,
-    "ping": 183
+    "ping": 147
   },
   {
     "host": "y2.hotelghooo.ir",
@@ -1317,7 +1449,7 @@
     "uptime": 100,
     "addTime": 1758503111,
     "updateTime": 1763948239,
-    "ping": 151
+    "ping": 91
   },
   {
     "host": "yamahdi-adrekni.gjesus.info",
@@ -1328,7 +1460,7 @@
     "uptime": 100,
     "addTime": 1752908612,
     "updateTime": 1763798280,
-    "ping": 41
+    "ping": 103
   },
   {
     "host": "yop.hotelghooo.ir",
@@ -1339,7 +1471,7 @@
     "uptime": 100,
     "addTime": 1753751028,
     "updateTime": 1764036446,
-    "ping": 103
+    "ping": 120
   },
   {
     "host": "yozar.abarwitch.info",
@@ -1350,7 +1482,7 @@
     "uptime": 100,
     "addTime": 1751061802,
     "updateTime": 1763766026,
-    "ping": 64
+    "ping": 72
   },
   {
     "host": "zom.hotelghooo.ir",
@@ -1361,6 +1493,6 @@
     "uptime": 100,
     "addTime": 1752141943,
     "updateTime": 1763637428,
-    "ping": 101
+    "ping": 98
   }
 ]
