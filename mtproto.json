@@ -8,7 +8,18 @@
     "uptime": 100,
     "addTime": 1765181119,
     "updateTime": 1765181119,
-    "ping": 131
+    "ping": 85
+  },
+  {
+    "host": "11-22-8.edshop.ir",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "country": "IR",
+    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
+    "uptime": 100,
+    "addTime": 1753275959,
+    "updateTime": 1765376635,
+    "ping": 78
   },
   {
     "host": "185.10.72.52",
@@ -19,7 +30,7 @@
     "uptime": 100,
     "addTime": 1754841929,
     "updateTime": 1765126850,
-    "ping": 95
+    "ping": 94
   },
   {
     "host": "185.201.49.82",
@@ -30,7 +41,7 @@
     "uptime": 100,
     "addTime": 1750867412,
     "updateTime": 1765387513,
-    "ping": 170
+    "ping": 174
   },
   {
     "host": "185.222.163.6",
@@ -41,7 +52,7 @@
     "uptime": 100,
     "addTime": 1757293521,
     "updateTime": 1765158448,
-    "ping": 96
+    "ping": 97
   },
   {
     "host": "194.88.232.10",
@@ -74,7 +85,7 @@
     "uptime": 100,
     "addTime": 1765710259,
     "updateTime": 1765710259,
-    "ping": 31
+    "ping": 36
   },
   {
     "host": "195.18.10.207",
@@ -85,7 +96,7 @@
     "uptime": 100,
     "addTime": 1765710259,
     "updateTime": 1765710259,
-    "ping": 32
+    "ping": 30
   },
   {
     "host": "195.18.10.210",
@@ -151,7 +162,7 @@
     "uptime": 100,
     "addTime": 1765569867,
     "updateTime": 1765569867,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "195.18.10.218",
@@ -217,7 +228,7 @@
     "uptime": 100,
     "addTime": 1764781459,
     "updateTime": 1765386311,
-    "ping": 32
+    "ping": 31
   },
   {
     "host": "195.18.10.231",
@@ -239,7 +250,7 @@
     "uptime": 100,
     "addTime": 1764684250,
     "updateTime": 1765289146,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "195.18.10.235",
@@ -294,7 +305,7 @@
     "uptime": 100,
     "addTime": 1764533049,
     "updateTime": 1765137987,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "195.18.10.240",
@@ -327,7 +338,7 @@
     "uptime": 100,
     "addTime": 1764263052,
     "updateTime": 1765473162,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "195.18.10.244",
@@ -382,7 +393,7 @@
     "uptime": 100,
     "addTime": 1764079449,
     "updateTime": 1765289147,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "195.18.10.253",
@@ -459,7 +470,7 @@
     "uptime": 100,
     "addTime": 1765213487,
     "updateTime": 1765213487,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "195.18.10.39",
@@ -470,7 +481,7 @@
     "uptime": 100,
     "addTime": 1765213454,
     "updateTime": 1765213454,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "195.18.10.40",
@@ -503,7 +514,7 @@
     "uptime": 100,
     "addTime": 1765364841,
     "updateTime": 1765364841,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "195.18.10.43",
@@ -517,17 +528,6 @@
     "ping": 30
   },
   {
-    "host": "2.arizo.org",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "country": "IR",
-    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
-    "uptime": 100,
-    "addTime": 1765181119,
-    "updateTime": 1765181119,
-    "ping": 117
-  },
-  {
     "host": "212.33.198.29",
     "port": 443,
     "secret": "7gAAAAAAAAAAAAAAAAAAAAl3d3cuY2xvdWRmbGFyZS5jb20",
@@ -536,7 +536,7 @@
     "uptime": 100,
     "addTime": 1750856602,
     "updateTime": 1765376654,
-    "ping": 94
+    "ping": 102
   },
   {
     "host": "45.94.214.208",
@@ -547,7 +547,7 @@
     "uptime": 100,
     "addTime": 1758276308,
     "updateTime": 1765536178,
-    "ping": 94
+    "ping": 93
   },
   {
     "host": "62.60.233.107.edshop.ir",
@@ -558,7 +558,7 @@
     "uptime": 100,
     "addTime": 1753383944,
     "updateTime": 1765484375,
-    "ping": 189
+    "ping": 165
   },
   {
     "host": "62.60.233.231.maksport.ir",
@@ -569,7 +569,7 @@
     "uptime": 100,
     "addTime": 1753373158,
     "updateTime": 1765472392,
-    "ping": 177
+    "ping": 178
   },
   {
     "host": "8-elite.ultrasam.info",
