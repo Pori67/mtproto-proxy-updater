@@ -1,5 +1,16 @@
 [
   {
+    "host": "1.arizo.org",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "country": "IR",
+    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
+    "uptime": 100,
+    "addTime": 1765181119,
+    "updateTime": 1765786193,
+    "ping": 109
+  },
+  {
     "host": "11-22-8.edshop.ir",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
@@ -8,7 +19,7 @@
     "uptime": 100,
     "addTime": 1753275959,
     "updateTime": 1765376635,
-    "ping": 105
+    "ping": 158
   },
   {
     "host": "185.10.72.52",
@@ -19,7 +30,7 @@
     "uptime": 100,
     "addTime": 1754841929,
     "updateTime": 1765731777,
-    "ping": 90
+    "ping": 89
   },
   {
     "host": "185.201.49.82",
@@ -30,7 +41,7 @@
     "uptime": 100,
     "addTime": 1750867412,
     "updateTime": 1765387513,
-    "ping": 179
+    "ping": 193
   },
   {
     "host": "185.222.163.6",
@@ -41,7 +52,7 @@
     "uptime": 100,
     "addTime": 1757293521,
     "updateTime": 1765763572,
-    "ping": 97
+    "ping": 87
   },
   {
     "host": "194.88.232.10",
@@ -63,7 +74,7 @@
     "uptime": 100,
     "addTime": 1764425088,
     "updateTime": 1765635374,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "195.18.10.205",
@@ -74,7 +85,7 @@
     "uptime": 100,
     "addTime": 1765818263,
     "updateTime": 1765818263,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "195.18.10.206",
@@ -140,7 +151,7 @@
     "uptime": 100,
     "addTime": 1765699494,
     "updateTime": 1765699494,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "195.18.10.214",
@@ -162,7 +173,7 @@
     "uptime": 100,
     "addTime": 1765569867,
     "updateTime": 1765569867,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "195.18.10.216",
@@ -184,7 +195,7 @@
     "uptime": 100,
     "addTime": 1765569867,
     "updateTime": 1765569867,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "195.18.10.222",
@@ -206,7 +217,7 @@
     "uptime": 100,
     "addTime": 1764846254,
     "updateTime": 1765451260,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "195.18.10.228",
@@ -217,7 +228,7 @@
     "uptime": 100,
     "addTime": 1764781459,
     "updateTime": 1765386311,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "195.18.10.229",
@@ -239,7 +250,7 @@
     "uptime": 100,
     "addTime": 1764684250,
     "updateTime": 1765894214,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "195.18.10.232",
@@ -294,7 +305,7 @@
     "uptime": 100,
     "addTime": 1764533049,
     "updateTime": 1765743010,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "195.18.10.240",
@@ -382,7 +393,7 @@
     "uptime": 100,
     "addTime": 1764079449,
     "updateTime": 1765894214,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "195.18.10.253",
@@ -437,7 +448,7 @@
     "uptime": 100,
     "addTime": 1765818418,
     "updateTime": 1765818418,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "195.18.10.36",
@@ -448,7 +459,7 @@
     "uptime": 100,
     "addTime": 1764641051,
     "updateTime": 1765851075,
-    "ping": 32
+    "ping": 30
   },
   {
     "host": "195.18.10.37",
@@ -459,7 +470,7 @@
     "uptime": 100,
     "addTime": 1764641051,
     "updateTime": 1765851075,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "195.18.10.38",
@@ -536,7 +547,7 @@
     "uptime": 100,
     "addTime": 1765181119,
     "updateTime": 1765786222,
-    "ping": 1131
+    "ping": 110
   },
   {
     "host": "212.33.198.29",
@@ -547,7 +558,7 @@
     "uptime": 100,
     "addTime": 1750856602,
     "updateTime": 1765376654,
-    "ping": 102
+    "ping": 99
   },
   {
     "host": "45.94.214.208",
@@ -558,18 +569,7 @@
     "uptime": 100,
     "addTime": 1758276308,
     "updateTime": 1765536178,
-    "ping": 97
-  },
-  {
-    "host": "62.60.233.107.edshop.ir",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "country": "IR",
-    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
-    "uptime": 100,
-    "addTime": 1753383944,
-    "updateTime": 1765484375,
-    "ping": 206
+    "ping": 93
   },
   {
     "host": "8-elite.ultrasam.info",
