@@ -1,14 +1,14 @@
 [
   {
-    "host": "11-22-8.edshop.ir",
+    "host": "1.arizo.org",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "country": "IR",
     "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
     "uptime": 100,
-    "addTime": 1753275959,
-    "updateTime": 1765981573,
-    "ping": 162
+    "addTime": 1765181119,
+    "updateTime": 1766391086,
+    "ping": 121
   },
   {
     "host": "185.10.72.52",
@@ -19,7 +19,7 @@
     "uptime": 100,
     "addTime": 1754841929,
     "updateTime": 1766336885,
-    "ping": 101
+    "ping": 94
   },
   {
     "host": "185.201.49.82",
@@ -30,7 +30,7 @@
     "uptime": 100,
     "addTime": 1750867412,
     "updateTime": 1765992320,
-    "ping": 186
+    "ping": 183
   },
   {
     "host": "185.222.163.6",
@@ -41,7 +41,7 @@
     "uptime": 100,
     "addTime": 1757293521,
     "updateTime": 1766368503,
-    "ping": 98
+    "ping": 97
   },
   {
     "host": "194.26.66.11",
@@ -85,7 +85,7 @@
     "uptime": 100,
     "addTime": 1766282644,
     "updateTime": 1766282644,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "194.26.66.135",
@@ -173,7 +173,7 @@
     "uptime": 100,
     "addTime": 1766239512,
     "updateTime": 1766239512,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "194.26.66.29",
@@ -184,7 +184,7 @@
     "uptime": 100,
     "addTime": 1766239512,
     "updateTime": 1766239512,
-    "ping": 32
+    "ping": 30
   },
   {
     "host": "194.26.66.4",
@@ -195,7 +195,7 @@
     "uptime": 100,
     "addTime": 1766174638,
     "updateTime": 1766174638,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "194.26.66.5",
@@ -206,7 +206,7 @@
     "uptime": 100,
     "addTime": 1766185434,
     "updateTime": 1766185434,
-    "ping": 32
+    "ping": 30
   },
   {
     "host": "194.26.66.7",
@@ -360,7 +360,7 @@
     "uptime": 100,
     "addTime": 1765818263,
     "updateTime": 1766423347,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "195.18.10.206",
@@ -459,7 +459,7 @@
     "uptime": 100,
     "addTime": 1764446836,
     "updateTime": 1766261660,
-    "ping": 32
+    "ping": 30
   },
   {
     "host": "195.18.10.217",
@@ -525,7 +525,7 @@
     "uptime": 100,
     "addTime": 1764684250,
     "updateTime": 1766499416,
-    "ping": 30
+    "ping": 32
   },
   {
     "host": "195.18.10.232",
@@ -536,7 +536,7 @@
     "uptime": 100,
     "addTime": 1764684250,
     "updateTime": 1766499416,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "195.18.10.236",
@@ -602,7 +602,7 @@
     "uptime": 100,
     "addTime": 1764446655,
     "updateTime": 1766261661,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "195.18.10.243",
@@ -624,7 +624,7 @@
     "uptime": 100,
     "addTime": 1764381842,
     "updateTime": 1766196744,
-    "ping": 32
+    "ping": 30
   },
   {
     "host": "195.18.10.245",
@@ -701,7 +701,7 @@
     "uptime": 100,
     "addTime": 1764868076,
     "updateTime": 1766078361,
-    "ping": 31
+    "ping": 32
   },
   {
     "host": "195.18.10.34",
@@ -712,7 +712,7 @@
     "uptime": 100,
     "addTime": 1765818418,
     "updateTime": 1766423348,
-    "ping": 34
+    "ping": 35
   },
   {
     "host": "195.18.10.36",
@@ -723,7 +723,7 @@
     "uptime": 100,
     "addTime": 1764641051,
     "updateTime": 1766455956,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "195.18.10.37",
@@ -767,7 +767,7 @@
     "uptime": 100,
     "addTime": 1765213454,
     "updateTime": 1766423348,
-    "ping": 32
+    "ping": 35
   },
   {
     "host": "195.18.10.41",
@@ -778,7 +778,7 @@
     "uptime": 100,
     "addTime": 1765386451,
     "updateTime": 1765991525,
-    "ping": 31
+    "ping": 35
   },
   {
     "host": "195.18.10.42",
@@ -789,7 +789,7 @@
     "uptime": 100,
     "addTime": 1765364841,
     "updateTime": 1765969665,
-    "ping": 30
+    "ping": 32
   },
   {
     "host": "195.18.10.43",
@@ -800,7 +800,18 @@
     "uptime": 100,
     "addTime": 1765624013,
     "updateTime": 1766229065,
-    "ping": 33
+    "ping": 35
+  },
+  {
+    "host": "2.arizo.org",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "country": "IR",
+    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
+    "uptime": 100,
+    "addTime": 1765181119,
+    "updateTime": 1766391117,
+    "ping": 110
   },
   {
     "host": "212.33.198.29",
@@ -811,7 +822,7 @@
     "uptime": 100,
     "addTime": 1750856602,
     "updateTime": 1765981593,
-    "ping": 98
+    "ping": 104
   },
   {
     "host": "45.94.214.208",
@@ -822,7 +833,18 @@
     "uptime": 100,
     "addTime": 1758276308,
     "updateTime": 1766141303,
-    "ping": 101
+    "ping": 98
+  },
+  {
+    "host": "62.60.233.107.edshop.ir",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "country": "IR",
+    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
+    "uptime": 100,
+    "addTime": 1753383944,
+    "updateTime": 1766089219,
+    "ping": 197
   },
   {
     "host": "62.60.233.231.maksport.ir",
@@ -833,7 +855,7 @@
     "uptime": 100,
     "addTime": 1753373158,
     "updateTime": 1766077573,
-    "ping": 275
+    "ping": 225
   },
   {
     "host": "8-elite.ultrasam.info",
@@ -844,7 +866,7 @@
     "uptime": 100,
     "addTime": 1753362352,
     "updateTime": 1766066751,
-    "ping": 78
+    "ping": 30
   },
   {
     "host": "85.133.214.250",
@@ -855,7 +877,7 @@
     "uptime": 100,
     "addTime": 1765408125,
     "updateTime": 1766013087,
-    "ping": 213
+    "ping": 201
   },
   {
     "host": "85.133.214.37",
@@ -866,7 +888,18 @@
     "uptime": 100,
     "addTime": 1750888972,
     "updateTime": 1766013495,
-    "ping": 181
+    "ping": 190
+  },
+  {
+    "host": "abo-ali-sina.tabibdel.org",
+    "port": 443,
+    "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+    "country": "IR",
+    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
+    "uptime": 100,
+    "addTime": 1765451129,
+    "updateTime": 1766056326,
+    "ping": 169
   },
   {
     "host": "aghaye.rastapor.org",
@@ -877,29 +910,7 @@
     "uptime": 100,
     "addTime": 1765494309,
     "updateTime": 1766099315,
-    "ping": 115
-  },
-  {
-    "host": "air-mahan.darsad.org",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "country": "IR",
-    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
-    "uptime": 100,
-    "addTime": 1765710297,
-    "updateTime": 1766315210,
-    "ping": 63
-  },
-  {
-    "host": "algortim.sayaair.ir",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "country": "IR",
-    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
-    "uptime": 100,
-    "addTime": 1750241084,
-    "updateTime": 1765971249,
-    "ping": 130
+    "ping": 113
   },
   {
     "host": "ali-bayat.dezmart.ir",
@@ -910,7 +921,18 @@
     "uptime": 100,
     "addTime": 1753373155,
     "updateTime": 1766077588,
-    "ping": 158
+    "ping": 125
+  },
+  {
+    "host": "ali.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1755468364,
+    "updateTime": 1766358238,
+    "ping": 101
   },
   {
     "host": "amd-epic.sheshko.info",
@@ -921,7 +943,7 @@
     "uptime": 100,
     "addTime": 1755770662,
     "updateTime": 1766055922,
-    "ping": 109
+    "ping": 104
   },
   {
     "host": "arizo.org",
@@ -932,7 +954,40 @@
     "uptime": 100,
     "addTime": 1765710298,
     "updateTime": 1766315210,
-    "ping": 86
+    "ping": 66
+  },
+  {
+    "host": "aval.fsaremi.info",
+    "port": 443,
+    "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+    "country": "IR",
+    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
+    "uptime": 100,
+    "addTime": 1750230175,
+    "updateTime": 1765960525,
+    "ping": 110
+  },
+  {
+    "host": "bob.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1753146322,
+    "updateTime": 1766456807,
+    "ping": 95
+  },
+  {
+    "host": "bor.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1754690767,
+    "updateTime": 1766184987,
+    "ping": 105
   },
   {
     "host": "brenj-rice.birjikala.ir",
@@ -943,7 +998,7 @@
     "uptime": 100,
     "addTime": 1753016620,
     "updateTime": 1766326886,
-    "ping": 159
+    "ping": 129
   },
   {
     "host": "chernobill.technote.ir",
@@ -954,29 +1009,18 @@
     "uptime": 100,
     "addTime": 1751731414,
     "updateTime": 1766251068,
-    "ping": 180
+    "ping": 111
   },
   {
-    "host": "cranberry-8044.kosekharejandatunpedarkuniemadarsag.site",
-    "port": 65535,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "IR",
-    "provider": "IPXO",
-    "uptime": 100,
-    "addTime": 1764273987,
-    "updateTime": 1766088841,
-    "ping": 54
-  },
-  {
-    "host": "daem.fsaremi.info",
+    "host": "cok.hotelghooo.ir",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
     "country": "IR",
-    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
+    "provider": "Pars Parva System LLC",
     "uptime": 100,
-    "addTime": 1752066169,
-    "updateTime": 1765981616,
-    "ping": 110
+    "addTime": 1757855216,
+    "updateTime": 1766325300,
+    "ping": 95
   },
   {
     "host": "daemi-pr.shesh-station.ir",
@@ -987,18 +1031,7 @@
     "uptime": 100,
     "addTime": 1751774602,
     "updateTime": 1766294341,
-    "ping": 157
-  },
-  {
-    "host": "darsad.org",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "country": "IR",
-    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
-    "uptime": 100,
-    "addTime": 1765710297,
-    "updateTime": 1766315212,
-    "ping": 91
+    "ping": 129
   },
   {
     "host": "doktor.rastapor.org",
@@ -1009,7 +1042,29 @@
     "uptime": 100,
     "addTime": 1765451129,
     "updateTime": 1766056330,
-    "ping": 67
+    "ping": 90
+  },
+  {
+    "host": "doop.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1758611162,
+    "updateTime": 1766476143,
+    "ping": 104
+  },
+  {
+    "host": "dop.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1758578693,
+    "updateTime": 1766443464,
+    "ping": 105
   },
   {
     "host": "download.portsocket.net",
@@ -1020,7 +1075,7 @@
     "uptime": 100,
     "addTime": 1763355985,
     "updateTime": 1766381399,
-    "ping": 186
+    "ping": 179
   },
   {
     "host": "drink-water.dezmart.ir",
@@ -1031,7 +1086,7 @@
     "uptime": 100,
     "addTime": 1757487949,
     "updateTime": 1765957437,
-    "ping": 127
+    "ping": 193
   },
   {
     "host": "dvr-git.mic-soft.org",
@@ -1042,7 +1097,7 @@
     "uptime": 100,
     "addTime": 1764338667,
     "updateTime": 1766153867,
-    "ping": 110
+    "ping": 87
   },
   {
     "host": "egabit.itemag.ir",
@@ -1053,7 +1108,18 @@
     "uptime": 100,
     "addTime": 1761552308,
     "updateTime": 1766392347,
-    "ping": 216
+    "ping": 255
+  },
+  {
+    "host": "en.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1751342821,
+    "updateTime": 1766466900,
+    "ping": 127
   },
   {
     "host": "epyc.mehrsam.org",
@@ -1064,18 +1130,7 @@
     "uptime": 100,
     "addTime": 1765699494,
     "updateTime": 1766304370,
-    "ping": 81
-  },
-  {
-    "host": "giahi-vegeterian.khunebagh.ir",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "country": "IR",
-    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
-    "uptime": 100,
-    "addTime": 1753275959,
-    "updateTime": 1765981619,
-    "ping": 159
+    "ping": 132
   },
   {
     "host": "halftime.parsintalk.ir",
@@ -1086,18 +1141,40 @@
     "uptime": 100,
     "addTime": 1750241084,
     "updateTime": 1765971255,
-    "ping": 157
+    "ping": 133
   },
   {
-    "host": "henri-cartier-bresson.serial-seriesiron.fist-soft.speedtest-soft.name.original.sub.s07-bluray.finecooking.info",
+    "host": "het.hotelghooo.ir",
     "port": 443,
-    "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
     "country": "IR",
-    "provider": "PIO-Hosting GmbH",
+    "provider": "Pars Parva System LLC",
     "uptime": 100,
-    "addTime": 1764543870,
-    "updateTime": 1766359063,
-    "ping": 211
+    "addTime": 1753146323,
+    "updateTime": 1766456811,
+    "ping": 187
+  },
+  {
+    "host": "hooo.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1758503111,
+    "updateTime": 1766368145,
+    "ping": 105
+  },
+  {
+    "host": "ila.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1755457561,
+    "updateTime": 1766347794,
+    "ping": 159
   },
   {
     "host": "jacob-elordi.serial-seriesiron.fist-soft.speedtest-soft.name.original.sub.s07-bluray.saatchiart.info",
@@ -1108,7 +1185,18 @@
     "uptime": 100,
     "addTime": 1763831075,
     "updateTime": 1766250658,
-    "ping": 245
+    "ping": 217
+  },
+  {
+    "host": "kar.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1752141940,
+    "updateTime": 1766057507,
+    "ping": 155
   },
   {
     "host": "khalije-fars.org",
@@ -1119,7 +1207,7 @@
     "uptime": 100,
     "addTime": 1759680344,
     "updateTime": 1766335368,
-    "ping": 99
+    "ping": 89
   },
   {
     "host": "khanom.rastapor.org",
@@ -1130,18 +1218,40 @@
     "uptime": 100,
     "addTime": 1765494309,
     "updateTime": 1766099325,
-    "ping": 131
+    "ping": 109
   },
   {
     "host": "kiwi-1456.kosekharejandatunpedarkuniemadarsag.site",
     "port": 2500,
     "secret": "dd79e70102001e7807f0104386124c0479",
     "country": "IR",
-    "provider": "IPXO",
+    "provider": "PIO-Hosting GmbH",
     "uptime": 100,
     "addTime": 1764273981,
     "updateTime": 1766088846,
-    "ping": 53
+    "ping": 6067
+  },
+  {
+    "host": "koc.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1757855217,
+    "updateTime": 1766325305,
+    "ping": 134
+  },
+  {
+    "host": "lol.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1757930799,
+    "updateTime": 1766401321,
+    "ping": 106
   },
   {
     "host": "mehrsam.org",
@@ -1152,7 +1262,18 @@
     "uptime": 100,
     "addTime": 1765710297,
     "updateTime": 1766315219,
-    "ping": 79
+    "ping": 83
+  },
+  {
+    "host": "mino.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1758567983,
+    "updateTime": 1766432433,
+    "ping": 122
   },
   {
     "host": "mohandes.rastapor.org",
@@ -1163,7 +1284,29 @@
     "uptime": 100,
     "addTime": 1765483526,
     "updateTime": 1766088443,
-    "ping": 113
+    "ping": 147
+  },
+  {
+    "host": "mon.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1758525187,
+    "updateTime": 1766389964,
+    "ping": 100
+  },
+  {
+    "host": "moz.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1752141943,
+    "updateTime": 1766057509,
+    "ping": 158
   },
   {
     "host": "mtproto.telewebion.com",
@@ -1174,7 +1317,62 @@
     "uptime": 100,
     "addTime": 1753254458,
     "updateTime": 1765958982,
-    "ping": 153
+    "ping": 157
+  },
+  {
+    "host": "nom.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1758525186,
+    "updateTime": 1766389965,
+    "ping": 151
+  },
+  {
+    "host": "oo.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1757887595,
+    "updateTime": 1766357863,
+    "ping": 134
+  },
+  {
+    "host": "op.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1751342821,
+    "updateTime": 1766466907,
+    "ping": 97
+  },
+  {
+    "host": "or.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1756839996,
+    "updateTime": 1765914304,
+    "ping": 107
+  },
+  {
+    "host": "org.arizo.org",
+    "port": 443,
+    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "country": "IR",
+    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
+    "uptime": 100,
+    "addTime": 1765191939,
+    "updateTime": 1766402153,
+    "ping": 96
   },
   {
     "host": "package.cbloudcdn.com",
@@ -1185,7 +1383,7 @@
     "uptime": 100,
     "addTime": 1750694586,
     "updateTime": 1766423824,
-    "ping": 10131
+    "ping": 94
   },
   {
     "host": "pes2021-update2025.magalaiash.info",
@@ -1196,7 +1394,7 @@
     "uptime": 100,
     "addTime": 1752919412,
     "updateTime": 1766229921,
-    "ping": 81
+    "ping": 83
   },
   {
     "host": "phyzyk-nazari.nokande.info",
@@ -1207,7 +1405,7 @@
     "uptime": 100,
     "addTime": 1753362348,
     "updateTime": 1766066772,
-    "ping": 80
+    "ping": 88
   },
   {
     "host": "phyzyk.nokande.info",
@@ -1218,18 +1416,7 @@
     "uptime": 100,
     "addTime": 1751580196,
     "updateTime": 1766099327,
-    "ping": 109
-  },
-  {
-    "host": "pooshak.mehrsam.org",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "country": "IR",
-    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
-    "uptime": 100,
-    "addTime": 1765699494,
-    "updateTime": 1766304378,
-    "ping": 135
+    "ping": 154
   },
   {
     "host": "poria-vali.birjikala.ir",
@@ -1240,18 +1427,29 @@
     "uptime": 100,
     "addTime": 1753373155,
     "updateTime": 1766077599,
-    "ping": 158
+    "ping": 167
   },
   {
-    "host": "rastapor.org",
+    "host": "poy.hotelghooo.ir",
     "port": 443,
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
     "country": "IR",
-    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
+    "provider": "Pars Parva System LLC",
     "uptime": 100,
-    "addTime": 1765451129,
-    "updateTime": 1766055934,
-    "ping": 81
+    "addTime": 1753751028,
+    "updateTime": 1766456421,
+    "ping": 106
+  },
+  {
+    "host": "rak.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1752141940,
+    "updateTime": 1766057512,
+    "ping": 124
   },
   {
     "host": "rastegar.rastapor.org",
@@ -1262,7 +1460,7 @@
     "uptime": 100,
     "addTime": 1765526698,
     "updateTime": 1766131582,
-    "ping": 108
+    "ping": 55
   },
   {
     "host": "response.cinere.info",
@@ -1273,29 +1471,51 @@
     "uptime": 100,
     "addTime": 1750241083,
     "updateTime": 1765971262,
-    "ping": 82
+    "ping": 118
   },
   {
-    "host": "ryzen-gold.shesh-station.ir",
+    "host": "rio.hotelghooo.ir",
     "port": 443,
-    "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
     "country": "IR",
-    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
+    "provider": "Pars Parva System LLC",
     "uptime": 100,
-    "addTime": 1751731414,
-    "updateTime": 1766251080,
-    "ping": 160
+    "addTime": 1758546486,
+    "updateTime": 1766411156,
+    "ping": 102
   },
   {
-    "host": "sadra.mygrade.ir",
+    "host": "rioo.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1758546486,
+    "updateTime": 1766411156,
+    "ping": 93
+  },
+  {
+    "host": "ro.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1756839996,
+    "updateTime": 1765914306,
+    "ping": 157
+  },
+  {
+    "host": "sad.darsad.org",
     "port": 443,
     "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "country": "IR",
     "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
     "uptime": 100,
-    "addTime": 1750241084,
-    "updateTime": 1765971262,
-    "ping": 221
+    "addTime": 1765785890,
+    "updateTime": 1766390751,
+    "ping": 111
   },
   {
     "host": "sahebe-sabr.nokande.info",
@@ -1306,18 +1526,18 @@
     "uptime": 100,
     "addTime": 1752908612,
     "updateTime": 1766218590,
-    "ping": 127
+    "ping": 93
   },
   {
-    "host": "sebro.sheshko.info",
+    "host": "shah3.hotelghooo.ir",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
     "country": "IR",
-    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
+    "provider": "Pars Parva System LLC",
     "uptime": 100,
-    "addTime": 1750241084,
-    "updateTime": 1765971262,
-    "ping": 103
+    "addTime": 1757455650,
+    "updateTime": 1765925511,
+    "ping": 150
   },
   {
     "host": "sibilkoloft.technote.ir",
@@ -1328,7 +1548,7 @@
     "uptime": 100,
     "addTime": 1751774602,
     "updateTime": 1766294737,
-    "ping": 133
+    "ping": 159
   },
   {
     "host": "silvermantain.cinere.info",
@@ -1339,7 +1559,18 @@
     "uptime": 100,
     "addTime": 1752066169,
     "updateTime": 1765981627,
-    "ping": 102
+    "ping": 152
+  },
+  {
+    "host": "sood.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1754680155,
+    "updateTime": 1766174848,
+    "ping": 106
   },
   {
     "host": "sothingp.birjikala.ir",
@@ -1350,7 +1581,7 @@
     "uptime": 100,
     "addTime": 1753016623,
     "updateTime": 1766326899,
-    "ping": 108
+    "ping": 121
   },
   {
     "host": "sportvssport.maksport.ir",
@@ -1361,7 +1592,7 @@
     "uptime": 100,
     "addTime": 1753189835,
     "updateTime": 1766499468,
-    "ping": 114
+    "ping": 188
   },
   {
     "host": "sun.bahazu.info",
@@ -1372,7 +1603,7 @@
     "uptime": 100,
     "addTime": 1757099285,
     "updateTime": 1766173404,
-    "ping": 86
+    "ping": 138
   },
   {
     "host": "systemfull.gjesus.info",
@@ -1383,7 +1614,7 @@
     "uptime": 100,
     "addTime": 1751645015,
     "updateTime": 1766165267,
-    "ping": 130
+    "ping": 59
   },
   {
     "host": "tabibdel.org",
@@ -1394,18 +1625,7 @@
     "uptime": 100,
     "addTime": 1765451129,
     "updateTime": 1766055936,
-    "ping": 77
-  },
-  {
-    "host": "tala.arizo.org",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "country": "IR",
-    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
-    "uptime": 100,
-    "addTime": 1765191939,
-    "updateTime": 1766402157,
-    "ping": 118
+    "ping": 84
   },
   {
     "host": "tebabat.tabibdel.org",
@@ -1416,7 +1636,18 @@
     "uptime": 100,
     "addTime": 1765537510,
     "updateTime": 1766142512,
-    "ping": 109
+    "ping": 110
+  },
+  {
+    "host": "teh.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1753146323,
+    "updateTime": 1766456820,
+    "ping": 156
   },
   {
     "host": "terminal.khalije-fars.org",
@@ -1427,7 +1658,7 @@
     "uptime": 100,
     "addTime": 1759701961,
     "updateTime": 1766357480,
-    "ping": 136
+    "ping": 116
   },
   {
     "host": "tew.khalije-fars.org",
@@ -1438,7 +1669,18 @@
     "uptime": 100,
     "addTime": 1759701961,
     "updateTime": 1766357480,
-    "ping": 89
+    "ping": 139
+  },
+  {
+    "host": "tino.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1758567983,
+    "updateTime": 1766432438,
+    "ping": 129
   },
   {
     "host": "turbo.arizo.org",
@@ -1449,18 +1691,29 @@
     "uptime": 100,
     "addTime": 1766174683,
     "updateTime": 1766174683,
-    "ping": 109
+    "ping": 83
   },
   {
-    "host": "wait.fiziotr.info",
+    "host": "vip.chitoz8.ir",
+    "port": 155,
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "country": "IR",
+    "provider": "PIO-Hosting GmbH",
+    "uptime": 100,
+    "addTime": 1766282644,
+    "updateTime": 1766282644,
+    "ping": 378
+  },
+  {
+    "host": "win.mic-soft.org",
     "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+    "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
     "country": "IR",
     "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
     "uptime": 100,
-    "addTime": 1750241083,
-    "updateTime": 1765971265,
-    "ping": 101
+    "addTime": 1758816457,
+    "updateTime": 1766076057,
+    "ping": 103
   },
   {
     "host": "www.hostingbartarpq.ir",
@@ -1471,7 +1724,18 @@
     "uptime": 100,
     "addTime": 1761725218,
     "updateTime": 1765960156,
-    "ping": 217
+    "ping": 196
+  },
+  {
+    "host": "y2.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1758503111,
+    "updateTime": 1766368156,
+    "ping": 148
   },
   {
     "host": "yamahdi-adrekni.gjesus.info",
@@ -1482,7 +1746,18 @@
     "uptime": 100,
     "addTime": 1752908612,
     "updateTime": 1766218596,
-    "ping": 89
+    "ping": 112
+  },
+  {
+    "host": "yop.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1753751028,
+    "updateTime": 1766456428,
+    "ping": 95
   },
   {
     "host": "zakaria-razi.tabibdel.org",
@@ -1493,6 +1768,17 @@
     "uptime": 100,
     "addTime": 1765483527,
     "updateTime": 1766088451,
-    "ping": 77
+    "ping": 110
+  },
+  {
+    "host": "zom.hotelghooo.ir",
+    "port": 443,
+    "secret": "ee000000000000000000000000000000007777772e4869646550726f78692e696f",
+    "country": "IR",
+    "provider": "Pars Parva System LLC",
+    "uptime": 100,
+    "addTime": 1752141943,
+    "updateTime": 1766057517,
+    "ping": 159
   }
 ]
