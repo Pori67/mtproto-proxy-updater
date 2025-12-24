@@ -1,16 +1,5 @@
 [
   {
-    "host": "11-22-8.edshop.ir",
-    "port": 443,
-    "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-    "country": "IR",
-    "provider": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
-    "uptime": 100,
-    "addTime": 1753275959,
-    "updateTime": 1766586526,
-    "ping": 129
-  },
-  {
     "host": "185.10.72.52",
     "port": 443,
     "secret": "ee0000f00f0f775555fffffff5006e2e69686f73742d696f2e636c6f7564",
@@ -19,7 +8,7 @@
     "uptime": 100,
     "addTime": 1754841929,
     "updateTime": 1766336885,
-    "ping": 95
+    "ping": 96
   },
   {
     "host": "185.201.49.82",
@@ -30,7 +19,7 @@
     "uptime": 100,
     "addTime": 1750867412,
     "updateTime": 1766597468,
-    "ping": 173
+    "ping": 171
   },
   {
     "host": "185.222.163.6",
