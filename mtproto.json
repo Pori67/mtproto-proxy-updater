@@ -1936,6 +1936,17 @@
     "ping": 82
   },
   {
+    "host": "package.cbloudcdn.com",
+    "port": 1000,
+    "secret": "7qi6jdKKygIxFalhsTItDWZ3d3cuY2Jsb3VkY2RuLmNvbQ",
+    "country": "IR",
+    "provider": "FanAvaran Mihan Mizban PJSC",
+    "uptime": 100,
+    "addTime": 1750694586,
+    "updateTime": 1768238365,
+    "ping": 20042
+  },
+  {
     "host": "rush.ahmadrezadoltala.co.uk",
     "port": 443,
     "secret": "ee00000000000000000000000000000001646c2e676f6f676c652e636f6d",
@@ -1988,7 +1999,7 @@
     "uptime": 100,
     "addTime": 1766757968,
     "updateTime": 1768573043,
-    "ping": 111
+    "ping": 31
   },
   {
     "host": "ziba.vahshi.ideahayekhoob.ir",
@@ -1999,6 +2010,6 @@
     "uptime": 100,
     "addTime": 1766757969,
     "updateTime": 1768573043,
-    "ping": 131
+    "ping": 103
   }
 ]
