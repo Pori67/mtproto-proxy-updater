@@ -1603,7 +1603,7 @@
     "uptime": 100,
     "addTime": 1767535489,
     "updateTime": 1768745327,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "91.217.166.160",
@@ -1614,7 +1614,7 @@
     "uptime": 100,
     "addTime": 1767535484,
     "updateTime": 1768745327,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "91.217.166.161",
@@ -1625,7 +1625,7 @@
     "uptime": 100,
     "addTime": 1767535484,
     "updateTime": 1768745327,
-    "ping": 30
+    "ping": 32
   },
   {
     "host": "91.217.166.162",
@@ -1647,7 +1647,7 @@
     "uptime": 100,
     "addTime": 1767546277,
     "updateTime": 1768756209,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "91.217.166.164",
@@ -1669,7 +1669,7 @@
     "uptime": 100,
     "addTime": 1767567856,
     "updateTime": 1768777916,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "91.217.166.166",
@@ -1702,7 +1702,7 @@
     "uptime": 100,
     "addTime": 1767535489,
     "updateTime": 1768745327,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "91.217.166.36",
@@ -1727,6 +1727,17 @@
     "ping": 30
   },
   {
+    "host": "cranberry-8044.kosekharejandatunpedarkuniemadarsag.site",
+    "port": 65535,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "country": "IR",
+    "provider": "PIO-Hosting GmbH",
+    "uptime": 100,
+    "addTime": 1764273987,
+    "updateTime": 1768509006,
+    "ping": 140
+  },
+  {
     "host": "henri-cartier-bresson.serial-seriesiron.fist-soft.speedtest-soft.name.original.sub.s07-bluray.finecooking.info",
     "port": 443,
     "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
@@ -1735,7 +1746,7 @@
     "uptime": 100,
     "addTime": 1764543870,
     "updateTime": 1768778713,
-    "ping": 238
+    "ping": 213
   },
   {
     "host": "loa.omidema27.ir",
@@ -1746,7 +1757,7 @@
     "uptime": 100,
     "addTime": 1767827013,
     "updateTime": 1768432194,
-    "ping": 586
+    "ping": 81
   },
   {
     "host": "naserhost-997.ir",
@@ -1757,7 +1768,7 @@
     "uptime": 100,
     "addTime": 1767783914,
     "updateTime": 1768388861,
-    "ping": 292
+    "ping": 403
   },
   {
     "host": "ooap.travelyou.ir",
@@ -1768,7 +1779,7 @@
     "uptime": 100,
     "addTime": 1767276239,
     "updateTime": 1768485968,
-    "ping": 195
+    "ping": 442
   },
   {
     "host": "ops.video-fun-new.com",
@@ -1779,7 +1790,18 @@
     "uptime": 100,
     "addTime": 1766617563,
     "updateTime": 1768432606,
-    "ping": 67
+    "ping": 89
+  },
+  {
+    "host": "package.cbloudcdn.com",
+    "port": 1000,
+    "secret": "7qi6jdKKygIxFalhsTItDWZ3d3cuY2Jsb3VkY2RuLmNvbQ",
+    "country": "IR",
+    "provider": "FanAvaran Mihan Mizban PJSC",
+    "uptime": 100,
+    "addTime": 1750694586,
+    "updateTime": 1768843323,
+    "ping": 10042
   },
   {
     "host": "sam.travelyou.ir",
@@ -1790,7 +1812,7 @@
     "uptime": 100,
     "addTime": 1767276245,
     "updateTime": 1768485970,
-    "ping": 707
+    "ping": 1058
   },
   {
     "host": "shayad.yeroz.travelyou.ir",
@@ -1801,18 +1823,18 @@
     "uptime": 100,
     "addTime": 1767276235,
     "updateTime": 1768485970,
-    "ping": 132
+    "ping": 138
   },
   {
-    "host": "vip.bomberoo.co.uk",
+    "host": "vip.chitoz8.ir",
     "port": 155,
-    "secret": "7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ",
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
     "country": "IR",
     "provider": "PIO-Hosting GmbH",
     "uptime": 100,
-    "addTime": 1766271991,
-    "updateTime": 1768692382,
-    "ping": 6057
+    "addTime": 1766282644,
+    "updateTime": 1768702285,
+    "ping": 4559
   },
   {
     "host": "yyyso.ideahayekhoob.ir",
@@ -1823,7 +1845,7 @@
     "uptime": 100,
     "addTime": 1766757968,
     "updateTime": 1768573043,
-    "ping": 52
+    "ping": 82
   },
   {
     "host": "ziba.vahshi.ideahayekhoob.ir",
@@ -1834,6 +1856,6 @@
     "uptime": 100,
     "addTime": 1766757969,
     "updateTime": 1768573043,
-    "ping": 580
+    "ping": 75
   }
 ]
