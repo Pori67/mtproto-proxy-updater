@@ -19,7 +19,7 @@
     "uptime": 100,
     "addTime": 1768712664,
     "updateTime": 1769317718,
-    "ping": 36
+    "ping": 33
   },
   {
     "host": "185.143.233.98",
@@ -30,7 +30,7 @@
     "uptime": 100,
     "addTime": 1768712664,
     "updateTime": 1769317718,
-    "ping": 36
+    "ping": 35
   },
   {
     "host": "194.117.64.12",
@@ -41,7 +41,7 @@
     "uptime": 100,
     "addTime": 1767406223,
     "updateTime": 1769221692,
-    "ping": 32
+    "ping": 31
   },
   {
     "host": "194.117.64.127",
@@ -52,7 +52,7 @@
     "uptime": 100,
     "addTime": 1768053848,
     "updateTime": 1769263807,
-    "ping": 79
+    "ping": 77
   },
   {
     "host": "194.117.64.161",
@@ -107,7 +107,7 @@
     "uptime": 100,
     "addTime": 1766228687,
     "updateTime": 1769253500,
-    "ping": 31
+    "ping": 34
   },
   {
     "host": "195.18.10.200",
@@ -195,7 +195,7 @@
     "uptime": 100,
     "addTime": 1767395063,
     "updateTime": 1769210302,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "195.18.10.253",
@@ -239,7 +239,7 @@
     "uptime": 100,
     "addTime": 1765213487,
     "updateTime": 1769447787,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "195.18.10.39",
@@ -261,7 +261,7 @@
     "uptime": 100,
     "addTime": 1765386451,
     "updateTime": 1769016612,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "195.18.10.42",
@@ -272,7 +272,7 @@
     "uptime": 100,
     "addTime": 1765364841,
     "updateTime": 1768994766,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "195.24.237.22",
@@ -305,7 +305,7 @@
     "uptime": 100,
     "addTime": 1769263510,
     "updateTime": 1769263510,
-    "ping": 28
+    "ping": 29
   },
   {
     "host": "87.248.132.11",
@@ -349,7 +349,7 @@
     "uptime": 100,
     "addTime": 1767881027,
     "updateTime": 1769090959,
-    "ping": 30
+    "ping": 32
   },
   {
     "host": "87.248.132.147",
@@ -360,7 +360,7 @@
     "uptime": 100,
     "addTime": 1767837817,
     "updateTime": 1769047825,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "87.248.132.148",
@@ -393,7 +393,7 @@
     "uptime": 100,
     "addTime": 1768626230,
     "updateTime": 1769231288,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "87.248.132.151",
@@ -404,7 +404,7 @@
     "uptime": 100,
     "addTime": 1769166366,
     "updateTime": 1769166366,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "87.248.132.152",
@@ -415,7 +415,7 @@
     "uptime": 100,
     "addTime": 1769166379,
     "updateTime": 1769166379,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "87.248.132.222",
@@ -470,7 +470,7 @@
     "uptime": 100,
     "addTime": 1767805423,
     "updateTime": 1769015473,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "87.248.132.39",
@@ -481,7 +481,7 @@
     "uptime": 100,
     "addTime": 1769155933,
     "updateTime": 1769155933,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "87.248.132.45",
@@ -591,7 +591,7 @@
     "uptime": 100,
     "addTime": 1769112264,
     "updateTime": 1769112264,
-    "ping": 30
+    "ping": 7179
   },
   {
     "host": "87.248.132.9",
@@ -613,7 +613,7 @@
     "uptime": 100,
     "addTime": 1767783863,
     "updateTime": 1768994002,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "87.248.134.108",
@@ -778,7 +778,7 @@
     "uptime": 100,
     "addTime": 1767535489,
     "updateTime": 1769350340,
-    "ping": 32
+    "ping": 30
   },
   {
     "host": "91.217.166.160",
@@ -855,7 +855,7 @@
     "uptime": 100,
     "addTime": 1767557067,
     "updateTime": 1769372053,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "91.217.166.167",
@@ -910,18 +910,7 @@
     "uptime": 100,
     "addTime": 1764543870,
     "updateTime": 1769383670,
-    "ping": 252
-  },
-  {
-    "host": "lado.ladochi.ir",
-    "port": 443,
-    "secret": "sidnjddbJvXrFGRMCIMJdCQRueWVrdGFuZXQuYdienkddb2dlndZmFyYWthdi5jb212YW4ubmFqsjsbjdbd",
-    "country": "IR",
-    "provider": "PIO-Hosting GmbH",
-    "uptime": 100,
-    "addTime": 1763982260,
-    "updateTime": 1769427441,
-    "ping": 130
+    "ping": 7750
   },
   {
     "host": "ops.video-fun-new.com",
