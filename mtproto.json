@@ -8,7 +8,7 @@
     "uptime": 100,
     "addTime": 1769285082,
     "updateTime": 1769285082,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "185.143.233.120",
@@ -30,7 +30,7 @@
     "uptime": 100,
     "addTime": 1768712664,
     "updateTime": 1769317718,
-    "ping": 36
+    "ping": 33
   },
   {
     "host": "194.117.64.12",
@@ -41,7 +41,7 @@
     "uptime": 100,
     "addTime": 1767406223,
     "updateTime": 1769221692,
-    "ping": 31
+    "ping": 32
   },
   {
     "host": "194.117.64.127",
@@ -52,7 +52,7 @@
     "uptime": 100,
     "addTime": 1768053848,
     "updateTime": 1769263807,
-    "ping": 78
+    "ping": 77
   },
   {
     "host": "194.117.64.161",
@@ -63,7 +63,7 @@
     "uptime": 100,
     "addTime": 1767891846,
     "updateTime": 1769101946,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "194.117.64.171",
@@ -85,7 +85,7 @@
     "uptime": 100,
     "addTime": 1767891846,
     "updateTime": 1769101946,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "194.117.64.181",
@@ -96,7 +96,7 @@
     "uptime": 100,
     "addTime": 1767891843,
     "updateTime": 1769101946,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "195.18.10.197",
@@ -107,7 +107,7 @@
     "uptime": 100,
     "addTime": 1766228687,
     "updateTime": 1769253500,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "195.18.10.200",
@@ -129,7 +129,7 @@
     "uptime": 100,
     "addTime": 1768334729,
     "updateTime": 1768939890,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "195.18.10.217",
@@ -140,7 +140,7 @@
     "uptime": 100,
     "addTime": 1765569867,
     "updateTime": 1769200063,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "195.18.10.218",
@@ -291,10 +291,10 @@
     "secret": "ff983d9971f5ee0fe5215e1817dcafae",
     "country": "IR",
     "provider": "FanAvaran Mihan Mizban PJSC",
-    "uptime": 100,
+    "uptime": 99.6992,
     "addTime": 1769101445,
     "updateTime": 1769101445,
-    "ping": 3075
+    "ping": 15321
   },
   {
     "host": "85.133.249.43",
@@ -305,7 +305,7 @@
     "uptime": 100,
     "addTime": 1769263510,
     "updateTime": 1769263510,
-    "ping": 28
+    "ping": 29
   },
   {
     "host": "87.248.132.11",
@@ -338,7 +338,7 @@
     "uptime": 100,
     "addTime": 1769090666,
     "updateTime": 1769090666,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "87.248.132.144",
@@ -349,7 +349,7 @@
     "uptime": 100,
     "addTime": 1767805427,
     "updateTime": 1769015472,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "87.248.132.145",
@@ -393,7 +393,7 @@
     "uptime": 100,
     "addTime": 1767881089,
     "updateTime": 1769090959,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "87.248.132.149",
@@ -415,7 +415,7 @@
     "uptime": 100,
     "addTime": 1768626230,
     "updateTime": 1769231288,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "87.248.132.151",
@@ -481,7 +481,7 @@
     "uptime": 100,
     "addTime": 1769155933,
     "updateTime": 1769155933,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "87.248.132.37",
@@ -525,7 +525,7 @@
     "uptime": 100,
     "addTime": 1769123038,
     "updateTime": 1769123038,
-    "ping": 31
+    "ping": 1049
   },
   {
     "host": "87.248.132.6",
@@ -536,7 +536,7 @@
     "uptime": 100,
     "addTime": 1767783863,
     "updateTime": 1768994001,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "87.248.132.68",
@@ -547,7 +547,7 @@
     "uptime": 100,
     "addTime": 1769209528,
     "updateTime": 1769209528,
-    "ping": 31
+    "ping": 1061
   },
   {
     "host": "87.248.132.69",
@@ -602,7 +602,7 @@
     "uptime": 100,
     "addTime": 1769177182,
     "updateTime": 1769177182,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "87.248.132.85",
@@ -624,17 +624,6 @@
     "uptime": 100,
     "addTime": 1769393087,
     "updateTime": 1769393087,
-    "ping": 30
-  },
-  {
-    "host": "87.248.132.87",
-    "port": 155,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "IR",
-    "provider": "PIO-Hosting GmbH",
-    "uptime": 100,
-    "addTime": 1769112264,
-    "updateTime": 1769112264,
     "ping": 30
   },
   {
@@ -722,7 +711,7 @@
     "provider": "PIO-Hosting GmbH",
     "uptime": 100,
     "addTime": 1768237445,
-    "updateTime": 1768842528,
+    "updateTime": 1769447406,
     "ping": 30
   },
   {
@@ -733,7 +722,7 @@
     "provider": "PIO-Hosting GmbH",
     "uptime": 100,
     "addTime": 1768237445,
-    "updateTime": 1768842528,
+    "updateTime": 1769447407,
     "ping": 30
   },
   {
@@ -744,7 +733,7 @@
     "provider": "PIO-Hosting GmbH",
     "uptime": 100,
     "addTime": 1768237445,
-    "updateTime": 1768842528,
+    "updateTime": 1769447407,
     "ping": 31
   },
   {
@@ -811,7 +800,7 @@
     "uptime": 100,
     "addTime": 1767557063,
     "updateTime": 1769371648,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "91.217.166.158",
@@ -833,7 +822,7 @@
     "uptime": 100,
     "addTime": 1767535489,
     "updateTime": 1769350340,
-    "ping": 32
+    "ping": 30
   },
   {
     "host": "91.217.166.160",
@@ -877,7 +866,7 @@
     "uptime": 100,
     "addTime": 1767546277,
     "updateTime": 1769361168,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "91.217.166.164",
@@ -932,7 +921,7 @@
     "uptime": 100,
     "addTime": 1767535489,
     "updateTime": 1769350340,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "91.217.166.36",
@@ -965,7 +954,7 @@
     "uptime": 100,
     "addTime": 1764543870,
     "updateTime": 1769383670,
-    "ping": 15169
+    "ping": 278
   },
   {
     "host": "lado.ladochi.ir",
@@ -976,7 +965,7 @@
     "uptime": 100,
     "addTime": 1763982260,
     "updateTime": 1769427441,
-    "ping": 111
+    "ping": 114
   },
   {
     "host": "ops.video-fun-new.com",
@@ -987,7 +976,7 @@
     "uptime": 100,
     "addTime": 1766617563,
     "updateTime": 1769037422,
-    "ping": 73
+    "ping": 70
   },
   {
     "host": "package.cbloudcdn.com",
@@ -998,6 +987,6 @@
     "uptime": 100,
     "addTime": 1750694586,
     "updateTime": 1768843323,
-    "ping": 10032
+    "ping": 10042
   }
 ]
