@@ -8,7 +8,7 @@
     "uptime": 100,
     "addTime": 1769285082,
     "updateTime": 1769285082,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "185.143.233.120",
@@ -19,7 +19,7 @@
     "uptime": 100,
     "addTime": 1768712664,
     "updateTime": 1769317718,
-    "ping": 37
+    "ping": 35
   },
   {
     "host": "185.143.233.98",
@@ -30,7 +30,7 @@
     "uptime": 100,
     "addTime": 1768712664,
     "updateTime": 1769317718,
-    "ping": 36
+    "ping": 33
   },
   {
     "host": "194.117.64.12",
@@ -96,7 +96,7 @@
     "uptime": 100,
     "addTime": 1767891843,
     "updateTime": 1769101946,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "195.18.10.200",
@@ -118,7 +118,7 @@
     "uptime": 100,
     "addTime": 1768334729,
     "updateTime": 1768939890,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "195.18.10.218",
@@ -217,7 +217,7 @@
     "uptime": 100,
     "addTime": 1765386451,
     "updateTime": 1769016612,
-    "ping": 32
+    "ping": 30
   },
   {
     "host": "195.18.10.42",
@@ -228,6 +228,17 @@
     "uptime": 100,
     "addTime": 1765364841,
     "updateTime": 1768994766,
+    "ping": 30
+  },
+  {
+    "host": "195.24.237.22",
+    "port": 60,
+    "secret": "eeeee7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d",
+    "country": "IR",
+    "provider": "Parsun Network Solutions PTY LTD",
+    "uptime": 100,
+    "addTime": 1769187906,
+    "updateTime": 1769187906,
     "ping": 30
   },
   {
@@ -250,7 +261,7 @@
     "uptime": 100,
     "addTime": 1769501111,
     "updateTime": 1769501111,
-    "ping": 31
+    "ping": 1041
   },
   {
     "host": "85.133.194.8",
@@ -437,7 +448,7 @@
     "uptime": 100,
     "addTime": 1769425484,
     "updateTime": 1769425484,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "87.248.132.84",
@@ -460,17 +471,6 @@
     "addTime": 1769371483,
     "updateTime": 1769371483,
     "ping": 30
-  },
-  {
-    "host": "87.248.132.87",
-    "port": 155,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-    "country": "IR",
-    "provider": "PIO-Hosting GmbH",
-    "uptime": 100,
-    "addTime": 1769112264,
-    "updateTime": 1769112264,
-    "ping": 1065
   },
   {
     "host": "87.248.132.9",
@@ -503,7 +503,7 @@
     "uptime": 100,
     "addTime": 1769112250,
     "updateTime": 1769112250,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "87.248.134.119",
@@ -525,7 +525,7 @@
     "uptime": 100,
     "addTime": 1768853104,
     "updateTime": 1769458116,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "87.248.134.28",
@@ -558,7 +558,7 @@
     "uptime": 100,
     "addTime": 1768237445,
     "updateTime": 1769447407,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "87.248.134.34",
@@ -646,7 +646,7 @@
     "uptime": 100,
     "addTime": 1767535484,
     "updateTime": 1769350340,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "91.217.166.161",
@@ -657,7 +657,7 @@
     "uptime": 100,
     "addTime": 1767535484,
     "updateTime": 1769350340,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "91.217.166.162",
@@ -679,7 +679,7 @@
     "uptime": 100,
     "addTime": 1767546277,
     "updateTime": 1769361168,
-    "ping": 31
+    "ping": 30
   },
   {
     "host": "91.217.166.164",
@@ -701,7 +701,7 @@
     "uptime": 100,
     "addTime": 1767567856,
     "updateTime": 1769382901,
-    "ping": 30
+    "ping": 31
   },
   {
     "host": "91.217.166.166",
@@ -759,17 +759,6 @@
     "ping": 30
   },
   {
-    "host": "cranberry-8044.kosekharejandatunpedarkuniemadarsag.site",
-    "port": 65535,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "country": "IR",
-    "provider": "PIO-Hosting GmbH",
-    "uptime": 99.903,
-    "addTime": 1764273987,
-    "updateTime": 1769114120,
-    "ping": 19068
-  },
-  {
     "host": "henri-cartier-bresson.serial-seriesiron.fist-soft.speedtest-soft.name.original.sub.s07-bluray.finecooking.info",
     "port": 443,
     "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
@@ -778,7 +767,7 @@
     "uptime": 100,
     "addTime": 1764543870,
     "updateTime": 1769383670,
-    "ping": 230
+    "ping": 10197
   },
   {
     "host": "ops.video-fun-new.com",
@@ -789,6 +778,6 @@
     "uptime": 100,
     "addTime": 1766617563,
     "updateTime": 1769037422,
-    "ping": 79
+    "ping": 53
   }
 ]
